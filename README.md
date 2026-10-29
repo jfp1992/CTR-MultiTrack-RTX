@@ -229,14 +229,36 @@ Console)"** on): `scripts/build_rom.sh` -> `out/CTR-MultiTrack.bin/.cue`
   Skinned characters (Papu's piranha plants) stay PS1: their animations are
   Havok data the converter doesn't read.
 
-## Credits and licences
+## Licence
 
-Custom tracks belong to their creators (see each track's page on
-[ctrcustomtracks.com](https://ctrcustomtracks.com/)). `native/` is GPL-3.0
-(ctr-native, see `native/LICENSE` and `native/THIRD_PARTY_NOTICES.md`).
-Built on [CTR-ModSDK](https://github.com/CTR-tools/CTR-ModSDK),
-[psx-modding-toolchain](https://github.com/mateusfavarin/psx-modding-toolchain),
-[PSn00bSDK](https://github.com/Lameguy64/PSn00bSDK)'s gcc,
-[ctr-tools](https://github.com/CTR-tools/CTR-tools) and
-[xdelta](https://github.com/jmacd/xdelta). Not affiliated with or endorsed by
-Activision or Sony.
+GPL-3.0 (see `LICENSE`), the same as ctr-native, which `native/` is a fork of
+(`native/LICENSE`, `native/THIRD_PARTY_NOTICES.md`). No game data is included
+or may be shared: you need your own copies of the games.
+
+Not affiliated with or endorsed by Activision, Sony, or the authors credited
+below.
+
+## Credits
+
+* [ctr-native](https://github.com/CTR-tools/ctr-native) (CTR-tools): the
+  decompiled game this runs on.
+* [CTR-ModSDK](https://github.com/CTR-tools/CTR-ModSDK),
+  [psx-modding-toolchain](https://github.com/mateusfavarin/psx-modding-toolchain):
+  the PS1 mod build and the game's symbols.
+* [ctr-tools](https://github.com/CTR-tools/CTR-tools): `bigtool.exe`, level
+  format notes (quad flags).
+* [PSn00bSDK](https://github.com/Lameguy64/PSn00bSDK): the MIPS gcc.
+* [xdelta](https://github.com/jmacd/xdelta): track patches.
+* [volk](https://github.com/zeux/volk),
+  [Vulkan-Headers](https://github.com/KhronosGroup/Vulkan-Headers): the
+  renderer's Vulkan loader and headers.
+* [LibOrbisPkg](https://github.com/maxton/LibOrbisPkg) (maxton): unpacks the PS4
+  package.
+* igLibrary (NefariousTechSupport) and the fmt_alchemy_igz Noesis plugin:
+  Alchemy engine IGA / IGZ format notes behind the Nitro-Fueled converter.
+* [ctrcustomtracks.com](https://ctrcustomtracks.com/): the custom track list
+  (`tracks.json`), and every custom track's creator (see its page).
+* Fan PS1 remakes the Crash Nitro Kart NF tracks play on: Anfrost (Jungle
+  Boogie, Barin Ruins, Deep Sea Driving, Out of Time, Thunderstruck, Assembly
+  Lane, Android Alley), Boxicfunk (Inferno Island), PanchoPewPew (Meteor
+  Gorge), robthefryman (Electron Avenue).

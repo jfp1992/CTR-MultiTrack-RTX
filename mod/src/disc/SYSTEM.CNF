@@ -1,0 +1,4 @@
+BOOT = cdrom:\SCUS_944.26;1
+TCB = 4
+EVENT = 16
+STACK = 807FFFF0

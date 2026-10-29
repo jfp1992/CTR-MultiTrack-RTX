@@ -1,0 +1,66 @@
+diff --git a/LibOrbisPkg.Core/LibOrbisPkg.Core.csproj b/LibOrbisPkg.Core/LibOrbisPkg.Core.csproj
+index 5f0fe49..d2d50e4 100644
+--- a/LibOrbisPkg.Core/LibOrbisPkg.Core.csproj
++++ b/LibOrbisPkg.Core/LibOrbisPkg.Core.csproj
+@@ -1,9 +1,9 @@
+ ﻿<Project Sdk="Microsoft.NET.Sdk">
+ 
+   <PropertyGroup>
+-    <TargetFramework>netcoreapp3.0</TargetFramework>
++    <TargetFramework>net8.0</TargetFramework>
+     <RootNamespace>LibOrbisPkg</RootNamespace>
+-    <LangVersion>7.3</LangVersion>
++    <LangVersion>latest</LangVersion>
+     <Platforms>AnyCPU</Platforms>
+     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+     <DefineConstants>CORE</DefineConstants>
+diff --git a/LibOrbisPkg/PFS/PFSCReader.cs b/LibOrbisPkg/PFS/PFSCReader.cs
+index 12c6c1b..a6e3a95 100644
+--- a/LibOrbisPkg/PFS/PFSCReader.cs
++++ b/LibOrbisPkg/PFS/PFSCReader.cs
+@@ -84,7 +84,7 @@ namespace LibOrbisPkg.PFS
+         using (var bufStream = new MemoryStream(sectorBuf))
+         using (var ds = new DeflateStream(bufStream, CompressionMode.Decompress))
+         {
+-          ds.Read(output, 0, hdr.BlockSz);
++          ds.ReadAtLeast(output.AsSpan(0, hdr.BlockSz), hdr.BlockSz, false);
+         }
+       }
+     }
+diff --git a/LibOrbisPkg/Util/Crypto.cs b/LibOrbisPkg/Util/Crypto.cs
+index 49172f0..252d0fd 100644
+--- a/LibOrbisPkg/Util/Crypto.cs
++++ b/LibOrbisPkg/Util/Crypto.cs
+@@ -172,8 +172,8 @@ namespace LibOrbisPkg.Util
+     /// <returns></returns>
+     public static byte[] RSA2048Encrypt(byte[] value, byte[] mod, int exp = 65537)
+     {
+-      var message = new BigInteger(value.Reverse().ToArray());
+-      var modulus = new BigInteger(mod.Reverse().Concat(new byte[] { 0 }).ToArray());
++      var message = new BigInteger(value.AsEnumerable().Reverse().ToArray());
++      var modulus = new BigInteger(mod.AsEnumerable().Reverse().Concat(new byte[] { 0 }).ToArray());
+       var exponent = new BigInteger(exp);
+       var leResult = BigInteger.ModPow(message, exponent, modulus).ToByteArray().Take(256);
+       return leResult
+@@ -296,7 +296,7 @@ namespace LibOrbisPkg.Util
+         throw new Exception("Passcode must be 32 characters long");
+             
+       byte[] data = new byte[96];
+-      Buffer.BlockCopy(Sha256(BitConverter.GetBytes(Index).Reverse().ToArray()), 0, data, 0, 32);
++      Buffer.BlockCopy(Sha256(BitConverter.GetBytes(Index).AsEnumerable().Reverse().ToArray()), 0, data, 0, 32);
+       Buffer.BlockCopy(Sha256(Encoding.ASCII.GetBytes(ContentId.PadRight(48, '\0'))), 0, data, 32, 32);
+       Buffer.BlockCopy(Encoding.ASCII.GetBytes(Passcode), 0, data, 64, 32);
+ 
+diff --git a/PkgTool.Core/PkgTool.Core.csproj b/PkgTool.Core/PkgTool.Core.csproj
+index 10e4e0b..147a94f 100644
+--- a/PkgTool.Core/PkgTool.Core.csproj
++++ b/PkgTool.Core/PkgTool.Core.csproj
+@@ -2,7 +2,7 @@
+ 
+   <PropertyGroup>
+     <OutputType>Exe</OutputType>
+-    <TargetFramework>netcoreapp3.0</TargetFramework>
++    <TargetFramework>net8.0</TargetFramework>
+     <StartupObject>PkgTool.Program</StartupObject>
+     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>

@@ -1,0 +1,2 @@
+// replace disc files: version, source (mod-relative), name on disc
+ntsc-u, src/disc/SYSTEM.CNF, SYSTEM.CNF

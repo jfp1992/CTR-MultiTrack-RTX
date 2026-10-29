@@ -1,0 +1,38 @@
+diff --git a/plugins/plugin.py b/plugins/plugin.py
+index 40e6bde9..aa428e7f 100644
+--- a/plugins/plugin.py
++++ b/plugins/plugin.py
+@@ -1,5 +1,9 @@
+ import os
+ import shutil
++import sys
++
++# ctr-tools are .NET Windows binaries; run them through wine elsewhere
++RUNNER = "" if sys.platform == "win32" else "WINEDEBUG=-all wine "
+ 
+ def warning() -> None:
+     print("[Plugin] WARNING: ctr-tools not found. Please download the tools from https://github.com/CTR-tools/CTR-tools/releases")
+@@ -7,12 +11,21 @@ def warning() -> None:
+ 
+ def extract(plugin_path: str, game_path: str, game_version: None) -> None:
+     if os.path.join(plugin_path, "ctr-tools"):
+-        os.system(plugin_path + "ctr-tools/bigtool.exe " + game_path + "BIGFILE.BIG")
++        os.system(RUNNER + plugin_path + "ctr-tools/bigtool.exe " + game_path + "BIGFILE.BIG")
+     else:
+         warning()
+ 
++# A mod may ship bigfile_post_build.py next to its buildList.txt; it runs after
++# BIGFILE.BIG is rebuilt (argv[1] = BIGFILE.BIG) and before the ISO is made,
++# e.g. to append extra entries the stock bigfile.txt does not know about.
++POST_BUILD_HOOK = "bigfile_post_build.py"
++
+ def build(plugin_path: str, game_path: str, game_version: None) -> None:
+     if os.path.join(plugin_path, "ctr-tools"):
+-        os.system(plugin_path + "ctr-tools/bigtool.exe " + game_path + "bigfile.txt")
++        os.system(RUNNER + plugin_path + "ctr-tools/bigtool.exe " + game_path + "bigfile.txt")
+     else:
+         warning()
++    if os.path.exists(POST_BUILD_HOOK):
++        big = os.path.join(game_path, "BIGFILE.BIG")
++        if os.system(f'"{sys.executable}" {POST_BUILD_HOOK} "{big}"') != 0:
++            print(f"[Plugin] ERROR: {POST_BUILD_HOOK} failed")

@@ -1,0 +1,31 @@
+# game data and track patches: never commit or share
+/rom-usa/*
+!/rom-usa/README.txt
+/rom-ps4/*
+!/rom-ps4/README.txt
+/tracks_in/*
+!/tracks_in/README.txt
+/tracks/
+/stock_tracks/
+/raw/
+/out/
+/ctr_all_tracks_backup/
+/extract_report.md
+# Nitro-Fueled: the user's own PS4 package, what is unpacked / converted from it
+*.pkg
+/nf_raw/
+/tools/pkgtool/
+/tools/alchemy/
+
+# fetched / built by scripts/setup.sh and the builds
+/psx-modding-toolchain/
+/tools/gcc-mipsel/
+/tools/xdelta3
+/tools/rt_bake/rt_bake
+/native/externals/volk/
+/native/externals/Vulkan-Headers/
+/.venv/
+/.browser-profile/
+/dist/
+__pycache__/
+/.claude/

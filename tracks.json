@@ -1,0 +1,1863 @@
+{
+ "tile-trauma": {
+  "name": "Tile Trauma",
+  "page_url": "https://ctrcustomtracks.com/tile-trauma/",
+  "author": "CTR-tools Team",
+  "download_url": "https://www.mediafire.com/file/i9rb9zt7ydhkefm/ctr-u_TileTrauma_EmuOnly.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Console Patch",
+    "href": "https://www.mediafire.com/file/bn6ber4ifzhowjv/ctr-u_TileTrauma_ConsoleOnly.xdelta/file"
+   }
+  ],
+  "next": "DS Rainbow Road",
+  "file_name": "ctr-u_TileTrauma_EmuOnly.xdelta",
+  "file_md5": "7df2fcbcf028b1349c77932092d2cff4",
+  "patch_md5": "7df2fcbcf028b1349c77932092d2cff4"
+ },
+ "ds-rainbow-road": {
+  "name": "DS Rainbow Road",
+  "page_url": "https://ctrcustomtracks.com/ds-rainbow-road/",
+  "author": "Niika",
+  "download_url": "https://www.mediafire.com/file/c9f6ek14e4qn36f/RRDS_Remake_MK_Roster.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://github.com/NiberiNiika/CTR-DS_Rainbow_Road/releases/download/RainbowRoad/RRDS_Beta.xdelta"
+   },
+   {
+    "text": "Download Patch [Remake]",
+    "href": "https://www.mediafire.com/file/58k62s3ufhk9nza/RRDS_Remake.xdelta/file"
+   }
+  ],
+  "next": "N64 Bowser’s Castle",
+  "file_name": "RRDS_Remake_MK_Roster.xdelta",
+  "file_md5": "5f5d963e22d69413a3d1fb71c8b04215",
+  "patch_md5": "5f5d963e22d69413a3d1fb71c8b04215"
+ },
+ "n64-bowsers-castle": {
+  "name": "N64 Bowser’s Castle",
+  "page_url": "https://ctrcustomtracks.com/n64-bowsers-castle/",
+  "author": "Anfrost",
+  "download_url": "https://www.mediafire.com/file/6ftbaiirr7293qq/Bowser%2527s_Castle_v2.0.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch [v1.5]",
+    "href": "https://www.mediafire.com/file/pq83mjze6u81zm1/bowser_castle_mk64_v1.5.xdelta/file"
+   }
+  ],
+  "next": "N-GAGE Android Alley",
+  "pack": "Mario Kart Retro Cup",
+  "file_name": "Bowsers Castle v2.0.xdelta",
+  "file_md5": "d87318676ae7facefea65332b3ef1cf7",
+  "patch_md5": "d87318676ae7facefea65332b3ef1cf7"
+ },
+ "n-gage-android-alley": {
+  "name": "N-GAGE Android Alley",
+  "page_url": "https://ctrcustomtracks.com/n-gage-android-alley/",
+  "author": "Anfrost",
+  "download_url": "https://www.mediafire.com/file/ub9ypbyrbb1gwec/Android_Alley_N_Gage_V1+(1).xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Remake Patch",
+    "href": "https://www.mediafire.com/file/nr5btx78w9r5wem/Android_Alley_N_gage_v1.0a.xdelta/file"
+   }
+  ],
+  "next": "Figure Ate Fries",
+  "file_name": "Android_Alley_N_Gage_V1 (1).xdelta",
+  "file_md5": "efbc736885203147bf99b40720334044",
+  "patch_md5": "efbc736885203147bf99b40720334044"
+ },
+ "figure-ate-fries": {
+  "name": "Figure Ate Fries",
+  "page_url": "https://ctrcustomtracks.com/figure-ate-fries/",
+  "author": "robthefryman",
+  "download_url": "https://www.mediafire.com/file/534bnv612dedriw/ctr-u_FigureAteFries_v2.0.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Source Files ZIP [v2.0]",
+    "href": "https://gamebanana.com/updates/323473"
+   }
+  ],
+  "next": "Dark Ruins",
+  "file_name": "ctr-u_FigureAteFries_v2.0.xdelta",
+  "file_md5": "d0aff6a7b0a6e23a9d844770446f11a1",
+  "patch_md5": "d0aff6a7b0a6e23a9d844770446f11a1"
+ },
+ "dark-ruins": {
+  "name": "Dark Ruins",
+  "page_url": "https://ctrcustomtracks.com/dark-ruins/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/btig0m6yyc9122s/Dark_Ruins_v3.1.xdelta/file",
+  "alt_downloads": [],
+  "next": "Pipe Dream",
+  "pack": "SOMARI Cup",
+  "file_name": "Dark_Ruins_v3.1.xdelta",
+  "file_md5": "297ef1494f874804ba8b4fc5f953434f",
+  "patch_md5": "297ef1494f874804ba8b4fc5f953434f"
+ },
+ "pipe-dream": {
+  "name": "Pipe Dream",
+  "page_url": "https://ctrcustomtracks.com/pipe-dream/",
+  "author": "Niika",
+  "download_url": "https://github.com/NiberiNiika/CTR-Customs-Niika/releases/download/Map/pipedream.xdelta",
+  "alt_downloads": [],
+  "next": "Purple City",
+  "file_name": "pipedream.xdelta",
+  "file_md5": "9c793c2e6f0c3875a06148765fd6219c",
+  "patch_md5": "9c793c2e6f0c3875a06148765fd6219c"
+ },
+ "purple-city": {
+  "name": "Purple City",
+  "page_url": "https://ctrcustomtracks.com/purple-city/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/3jm8r87e934953x/ctr-u_Purple_CityV4.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Bowser’s Castle 2",
+  "pack": "SOMARI Cup",
+  "file_name": "ctr-u_Purple_CityV4.xdelta",
+  "file_md5": "ade5c66bb2c859357a50dabe7c556cf5",
+  "patch_md5": "ade5c66bb2c859357a50dabe7c556cf5"
+ },
+ "snes-bowsers-castle-2": {
+  "name": "SNES Bowser’s Castle 2",
+  "page_url": "https://ctrcustomtracks.com/snes-bowsers-castle-2/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/7vgahy52a96nr2r/SNES_BC2_Remix_v3.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "NF Thunderstruck",
+  "pack": "SOMARI Cup",
+  "file_name": "SNES_BC2_Remix_v3.0.xdelta",
+  "file_md5": "8a04cdebdce8f98f41daca4b8d48eb35",
+  "patch_md5": "8a04cdebdce8f98f41daca4b8d48eb35"
+ },
+ "nf-thunderstruck": {
+  "name": "NF Thunderstruck",
+  "page_url": "https://ctrcustomtracks.com/nf-thunderstruck/",
+  "author": "Anfrost",
+  "download_url": "https://www.mediafire.com/file/ohp2ndabiygbm30/ThunderStruck_v2.0.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Retro-Fueled Patch",
+    "href": "https://www.mediafire.com/file/9eqvbtg3hxiflpn/ThunderStruck_v2.0_RETRO_FUELED.xdelta/file"
+   }
+  ],
+  "next": "Pipe Playground",
+  "pack": "Nitro Wild Cup",
+  "file_name": "ThunderStruck_v2.0.xdelta",
+  "file_md5": "d0c711e6df95f5650ed3af9b02f8fd46",
+  "patch_md5": "d0c711e6df95f5650ed3af9b02f8fd46"
+ },
+ "pipe-playground": {
+  "name": "Pipe Playground",
+  "page_url": "https://ctrcustomtracks.com/pipe-playground/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/vn37mks2umhmws5/ctr-u_PS1_PipePlayground.xdelta/file",
+  "alt_downloads": [],
+  "next": "Towers",
+  "pack": "SOMARI Cup",
+  "file_name": "ctr-u_PS1_PipePlayground.xdelta",
+  "file_md5": "1eff42869d17b5dc576f31de278552fc",
+  "patch_md5": "1eff42869d17b5dc576f31de278552fc"
+ },
+ "towers": {
+  "name": "Towers",
+  "page_url": "https://ctrcustomtracks.com/towers/",
+  "author": "LittleHelper",
+  "download_url": "https://www.mediafire.com/file/zoeayao7tcwthqv/TowersReturns.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download BOT Patch",
+    "href": "https://www.mediafire.com/file/cfovtfhein36yjc/towersbots.xdelta/file"
+   },
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/kro0eva60x9aauc/TowersTextured.xdelta/file"
+   }
+  ],
+  "next": "Ancient Dunes",
+  "file_name": "TowersReturns.xdelta",
+  "file_md5": "2e4da80affcc1a104f532243f3bb4509",
+  "patch_md5": "2e4da80affcc1a104f532243f3bb4509"
+ },
+ "frozen-depths": {
+  "name": "Frozen Depths",
+  "page_url": "https://ctrcustomtracks.com/frozen-depths/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/50jw3wf3gbmh9fo/Frozen_Depths_v3.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "Weaver’s Speedway",
+  "pack": "SOMARI Cup",
+  "file_name": "Frozen_Depths_v3.0.xdelta",
+  "file_md5": "6dfa6d233770f40ca72b619ca87a5e54",
+  "patch_md5": "6dfa6d233770f40ca72b619ca87a5e54"
+ },
+ "ancient-dunes": {
+  "name": "Ancient Dunes",
+  "page_url": "https://ctrcustomtracks.com/ancient-dunes/",
+  "author": "Custom Team Racing",
+  "download_url": "https://www.mediafire.com/file/m3cc9i59y8uby3m/Ancient_Dunes_v6.xdelta/file",
+  "alt_downloads": [],
+  "next": "Frozen Depths",
+  "file_name": "Ancient_Dunes_v6.xdelta",
+  "file_md5": "4a914afa654085af6b512c3e6e265878",
+  "patch_md5": "4a914afa654085af6b512c3e6e265878"
+ },
+ "weavers-speedway": {
+  "name": "Weaver’s Speedway",
+  "page_url": "https://ctrcustomtracks.com/weavers-speedway/",
+  "author": "KhaosApache",
+  "download_url": "https://www.mediafire.com/file/0ajr3e5h6i3604x/CTR-WeaversSpeedway-V4.1.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch v4",
+    "href": "https://www.mediafire.com/file/tu24xca3v6qjtwl/CTR-WeaversSpeedway-V4.xdelta/file"
+   },
+   {
+    "text": "Download Patch v3",
+    "href": "https://www.mediafire.com/file/3ci7qgekxzc5gjn/CTR-WeaversSpeedway-V3.xdelta/file"
+   }
+  ],
+  "next": "Roc Observatory",
+  "file_name": "CTR-WeaversSpeedway-V4.1.xdelta",
+  "file_md5": "1d3bdd17b786aecf3fa3f1ceb57f9350",
+  "patch_md5": "1d3bdd17b786aecf3fa3f1ceb57f9350"
+ },
+ "roc-observatory": {
+  "name": "Roc Observatory",
+  "page_url": "https://ctrcustomtracks.com/roc-observatory/",
+  "author": "RipperRooTMUF",
+  "download_url": "https://www.mediafire.com/file/o080awod0wvxfko/Roc_Observatory_V2.xdelta/file",
+  "alt_downloads": [],
+  "next": "WRONG WAY",
+  "file_name": "Roc_Observatory_V2.xdelta",
+  "file_md5": "393a7f89137a0d597c5cd4d7a55e6aae",
+  "patch_md5": "393a7f89137a0d597c5cd4d7a55e6aae"
+ },
+ "wrong-way": {
+  "name": "WRONG WAY",
+  "page_url": "https://ctrcustomtracks.com/wrong-way/",
+  "author": "LittleHelper",
+  "download_url": "https://www.mediafire.com/file/wkfprqzorw40dw5/WRONG_WAY.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "",
+    "href": "https://www.mediafire.com/file/zyy3nwwlgkyjls8/DARK_WAY.xdelta/file"
+   },
+   {
+    "text": "d̵̩͌̔a̵̢͙̓ṟ̶͗̈́k̸̙̐̔",
+    "href": "https://www.mediafire.com/file/zyy3nwwlgkyjls8/DARK_WAY.xdelta/file"
+   }
+  ],
+  "next": "GCN Baby Park",
+  "file_name": "WRONG WAY.xdelta",
+  "file_md5": "14ed205c324e9e6762dde90dd90d759e",
+  "patch_md5": "14ed205c324e9e6762dde90dd90d759e"
+ },
+ "gcn-baby-park": {
+  "name": "GCN Baby Park",
+  "page_url": "https://ctrcustomtracks.com/gcn-baby-park/",
+  "author": "robthefryman",
+  "download_url": "https://www.mediafire.com/file/pahsektho920w0r/ctr-u_MKDDBabyPark_v2.0.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Source Files ZIP [v2.0]",
+    "href": "https://gamebanana.com/updates/323553"
+   }
+  ],
+  "next": "N64 Wario Stadium",
+  "file_name": "ctr-u_MKDDBabyPark_v2.0.xdelta",
+  "file_md5": "02302ba7e74b8ffabcc2ebbcab81fe34",
+  "patch_md5": "02302ba7e74b8ffabcc2ebbcab81fe34"
+ },
+ "n64-wario-stadium": {
+  "name": "N64 Wario Stadium",
+  "page_url": "https://ctrcustomtracks.com/n64-wario-stadium/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/6eqjsqddbgepskn/ctr-u_WarioStadiumBeta.xdelta/file",
+  "alt_downloads": [],
+  "next": "N64 Mario Raceway",
+  "pack": "SOMARI Cup",
+  "file_name": "ctr-u_WarioStadiumBeta.xdelta",
+  "file_md5": "b54a09d5369d5594cef17d36b8accd08",
+  "patch_md5": "b54a09d5369d5594cef17d36b8accd08"
+ },
+ "n64-mario-raceway-remix": {
+  "name": "N64 Mario Raceway",
+  "page_url": "https://ctrcustomtracks.com/n64-mario-raceway-remix/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/a3ryqu7yid4t4xj/ctr-u_Mario_Raceway_V2.xdelta/file",
+  "alt_downloads": [],
+  "next": "Royal Ruins",
+  "pack": "SOMARI Cup",
+  "file_name": "ctr-u_Mario_Raceway_V2.xdelta",
+  "file_md5": "5ceaff4d74a8648e5675f8add473c06b",
+  "patch_md5": "5ceaff4d74a8648e5675f8add473c06b"
+ },
+ "royal-ruins": {
+  "name": "Royal Ruins",
+  "page_url": "https://ctrcustomtracks.com/royal-ruins/",
+  "author": "Carp Joe",
+  "download_url": "https://www.mediafire.com/file/cutbjy9p7ln78am/ctr-u_RoyalRuins_v1.1.xdelta/file",
+  "alt_downloads": [],
+  "next": "Shark Round",
+  "file_name": "ctr-u_RoyalRuins_v1.1.xdelta",
+  "file_md5": "9f63d0ba40f4875c06b5adceb0688927",
+  "patch_md5": "9f63d0ba40f4875c06b5adceb0688927"
+ },
+ "shark-round": {
+  "name": "Shark Round",
+  "page_url": "https://ctrcustomtracks.com/shark-round/",
+  "author": "LittleHelper",
+  "download_url": "https://www.mediafire.com/file/x86qfuzbs742rzx/SharkRound.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "WALLRIDER",
+    "href": "https://www.mediafire.com/file/7jjbhrbllhcfd0p/SharkRoundFunny.xdelta/file"
+   }
+  ],
+  "next": "Prehistoric Pathways",
+  "file_name": "SharkRound.xdelta",
+  "file_md5": "6c3c51ce921209ec34c007f81faebef9",
+  "patch_md5": "6c3c51ce921209ec34c007f81faebef9"
+ },
+ "prehistoric-pathways": {
+  "name": "Prehistoric Pathways",
+  "page_url": "https://ctrcustomtracks.com/prehistoric-pathways/",
+  "author": "LittleBigHamm",
+  "download_url": "https://www.mediafire.com/file/9j2t5v4p76xooq2/PrehistoricPathwaysV1_0.xdelta/file",
+  "alt_downloads": [],
+  "next": "DKR Ancient Lake",
+  "pack": "Nitro Wild Cup",
+  "file_name": "PrehistoricPathwaysV1_0.xdelta",
+  "file_md5": "f92e55f9424464e9391860c2588082f5",
+  "patch_md5": "f92e55f9424464e9391860c2588082f5"
+ },
+ "dkr-ancient-lake": {
+  "name": "DKR Ancient Lake",
+  "page_url": "https://ctrcustomtracks.com/dkr-ancient-lake/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/fgzsb8kesgtp8iq/ctr-u_Ancient_lake_DiddyKongRacing.xdelta/file",
+  "alt_downloads": [],
+  "next": "GCN Yoshi Circuit",
+  "pack": "SOMARI Cup",
+  "file_name": "ctr-u_Ancient_lake_DiddyKongRacing.xdelta",
+  "file_md5": "901e2e4abfee0f421bcde0445935f1df",
+  "patch_md5": "901e2e4abfee0f421bcde0445935f1df"
+ },
+ "gcn-yoshi-circuit": {
+  "name": "GCN Yoshi Circuit",
+  "page_url": "https://ctrcustomtracks.com/gcn-yoshi-circuit/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/d4gscg5b8mop38m/Yoshi_Circuit_v1.1.xdelta/file",
+  "alt_downloads": [],
+  "next": "Nuke Reactor",
+  "pack": "Mario Kart Retro Cup",
+  "file_name": "Yoshi_Circuit_v1.1.xdelta",
+  "file_md5": "2eb1cb3f81b234c43e1b5ed593dc1d64",
+  "patch_md5": "2eb1cb3f81b234c43e1b5ed593dc1d64"
+ },
+ "nuke-reactor-pod": {
+  "name": "Nuke Reactor",
+  "page_url": "https://ctrcustomtracks.com/nuke-reactor-pod/",
+  "author": "RipperRooTMUF",
+  "download_url": "https://www.mediafire.com/file/abkh63jjas6di19/Nuke_Reactor_V2.xdelta/file",
+  "alt_downloads": [],
+  "next": "Badgey Lighthouse",
+  "file_name": "Nuke_Reactor_V2.xdelta",
+  "file_md5": "ac461a452d5f6959d37f3f907d818688",
+  "patch_md5": "ac461a452d5f6959d37f3f907d818688"
+ },
+ "badgey-lighthouse": {
+  "name": "Badgey Lighthouse",
+  "page_url": "https://ctrcustomtracks.com/badgey-lighthouse/",
+  "author": "Custom Team Racing",
+  "download_url": "https://www.mediafire.com/file/1a5drn00h2zuq48/Badgey_Lighthouse.xdelta/file",
+  "alt_downloads": [],
+  "next": "Ride the Rapids",
+  "file_name": "Badgey_Lighthouse.xdelta",
+  "file_md5": "d9373aad2c2980bf725eb720071a9ef3",
+  "patch_md5": "d9373aad2c2980bf725eb720071a9ef3"
+ },
+ "ride-the-rapids": {
+  "name": "Ride the Rapids",
+  "page_url": "https://ctrcustomtracks.com/ride-the-rapids/",
+  "author": "LittleBigHamm",
+  "download_url": "https://www.mediafire.com/file/84q5bcibxqzf693/RideTheRapids.xdelta/file",
+  "alt_downloads": [],
+  "next": "DKR Fossil Canyon",
+  "pack": "Nitro WIld Cup",
+  "file_name": "RideTheRapids.xdelta",
+  "file_md5": "5c2b0399049cd1c365bd4c6fbc44357c",
+  "patch_md5": "5c2b0399049cd1c365bd4c6fbc44357c"
+ },
+ "dkr-fossil-canyon": {
+  "name": "DKR Fossil Canyon",
+  "page_url": "https://ctrcustomtracks.com/dkr-fossil-canyon/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/87fxh3z9x8j7hu0/ctr-u_PS1_DKR_Fossil_Canyon.xdelta/file",
+  "alt_downloads": [],
+  "next": "N64 Koopa Troopa Beach",
+  "pack": "SOMARI Cup",
+  "file_name": "ctr-u_PS1_DKR_Fossil_Canyon.xdelta",
+  "file_md5": "450be394cfe7f912412bad32de548713",
+  "patch_md5": "450be394cfe7f912412bad32de548713"
+ },
+ "n64-koopa-troopa-beach": {
+  "name": "N64 Koopa Troopa Beach",
+  "page_url": "https://ctrcustomtracks.com/n64-koopa-troopa-beach/",
+  "author": "Anfrost",
+  "download_url": "https://www.mediafire.com/file/gllczbiexvcvf0j/Koopa_Troopa_Beach_v1.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "NF Electron Avenue",
+  "file_name": "Koopa_Troopa_Beach_v1.0.xdelta",
+  "file_md5": "7cc861cbc4c9ad0e14ccef7aba1c6dc5",
+  "patch_md5": "7cc861cbc4c9ad0e14ccef7aba1c6dc5"
+ },
+ "nf-electron-avenue": {
+  "name": "NF Electron Avenue",
+  "page_url": "https://ctrcustomtracks.com/nf-electron-avenue/",
+  "author": "robthefryman",
+  "download_url": "https://gamebanana.com/mods/572438",
+  "alt_downloads": [
+   {
+    "text": "Download ZIP [v1.0]",
+    "href": "https://gamebanana.com/dl/1373056"
+   }
+  ],
+  "next": "Crow Forest",
+  "pack": "Nitro Wild Cup",
+  "file_name": "nfelectronave_v20.zip",
+  "file_md5": "e0ce4fc673e0b0d24dcbab315237041e",
+  "patch_md5": "8d0bac67fab99a8326302efba0900095"
+ },
+ "crow-forest": {
+  "name": "Crow Forest",
+  "page_url": "https://ctrcustomtracks.com/crow-forest/",
+  "author": "EarlGrey",
+  "download_url": "https://drive.google.com/file/d/1GupmhdyztukgGInD8M4BNka7GqoMyqJ6/view?usp=drive_link",
+  "alt_downloads": [
+   {
+    "text": "Download Patch [v2.0]",
+    "href": "https://drive.google.com/file/d/1CXTM1NgiP7UOuF4ImHVOFU7qIHRmOw21/view?usp=drive_link"
+   },
+   {
+    "text": "Download Patch [v1.0]",
+    "href": "https://drive.google.com/file/d/1iWMOe7-Y6MNqmujoTRjhMyUfo5jaeomx/view?usp=drive_link"
+   }
+  ],
+  "next": "Neon Paradise",
+  "pack": "Nitro Wild Cup",
+  "file_name": "CTR_Crow_Forest_V3.0.xdelta",
+  "file_md5": "1149ff093a28b5f58e5a16b905af21c4",
+  "patch_md5": "1149ff093a28b5f58e5a16b905af21c4"
+ },
+ "neon-paradise": {
+  "name": "Neon Paradise",
+  "page_url": "https://ctrcustomtracks.com/neon-paradise/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/frs9p80vouvj5hp/Neon_Paradise_v2.1.xdelta/file",
+  "alt_downloads": [],
+  "next": "DKR Jungle Falls",
+  "pack": "SOMARI Cup",
+  "file_name": "Neon_Paradise_v2.1.xdelta",
+  "file_md5": "2618cbae527ca8d3b85a26d6a7c36433",
+  "patch_md5": "2618cbae527ca8d3b85a26d6a7c36433"
+ },
+ "dkr-jungle-falls": {
+  "name": "DKR Jungle Falls",
+  "page_url": "https://ctrcustomtracks.com/dkr-jungle-falls/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/aljw3dbmvfextej/ctr-u_DKR_Jungle_Falls.xdelta/file",
+  "alt_downloads": [],
+  "next": "DS Desert Hills",
+  "pack": "SOMARI Cup",
+  "file_name": "ctr-u_DKR_Jungle_Falls.xdelta",
+  "file_md5": "a99069103756f6d90743ec261aef8698",
+  "patch_md5": "a99069103756f6d90743ec261aef8698"
+ },
+ "ds-desert-hills": {
+  "name": "DS Desert Hills",
+  "page_url": "https://ctrcustomtracks.com/ds-desert-hills/",
+  "author": "EarlGrey",
+  "download_url": "https://drive.google.com/file/d/10_PsQBFWs4MBWJDudAafWWY8SikJoapY/view?usp=drive_link",
+  "alt_downloads": [
+   {
+    "text": "Download Patch [v1.0]",
+    "href": "https://drive.google.com/file/d/1jPzNAPN78yvnw1vcAB1jWUTekanm2fQO/view?usp=drive_link"
+   },
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/mfu1locgv3y7mr4/CTR_Desert_Hills.xdelta/file"
+   }
+  ],
+  "next": "N64 Choco Mountain",
+  "pack": "Mario Kart Retro Cup",
+  "file_name": "CTR_Desert_Hills_V2.0.xdelta",
+  "file_md5": "1cd533f4da79b6ad4baffe98c4656a19",
+  "patch_md5": "1cd533f4da79b6ad4baffe98c4656a19"
+ },
+ "n64-choco-mountain": {
+  "name": "N64 Choco Mountain",
+  "page_url": "https://ctrcustomtracks.com/n64-choco-mountain/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/ali3zi3hxohblnh/ctr-u_ChocoMountainV1.5.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/wdb0g5trgv3vs6g/ctr-u_ChocoMountain.xdelta/file"
+   }
+  ],
+  "next": "DS DK Pass",
+  "pack": "SOMARI Cup",
+  "file_name": "ctr-u_ChocoMountainV1.5.xdelta",
+  "file_md5": "b1373d51a298178cfb14aada51044ad3",
+  "patch_md5": "b1373d51a298178cfb14aada51044ad3"
+ },
+ "ds-dk-pass": {
+  "name": "DS DK Pass",
+  "page_url": "https://ctrcustomtracks.com/ds-dk-pass/",
+  "author": "Metal Star",
+  "download_url": "https://www.mediafire.com/file/vjo6c09hdph3ip1/DKPassV3.4.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch [3.5]",
+    "href": "https://www.mediafire.com/file/bs0yy6wcn5531nb/DKPassV3.5.xdelta/file"
+   },
+   {
+    "text": "Download Patch [v2]",
+    "href": "https://www.mediafire.com/file/cmojd0q81lr9tb8/DSDKPassV2.xdelta/file"
+   },
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/z3plzj3did49eib/CTRDSDKPassTrackROM.xdelta/file"
+   }
+  ],
+  "next": "High Risk",
+  "pack": "Mario Kart Retro Cup",
+  "file_name": "DKPassV3.4.xdelta",
+  "file_md5": "49233a365264490021cf19295f0888c2",
+  "patch_md5": "49233a365264490021cf19295f0888c2"
+ },
+ "high-risk": {
+  "name": "High Risk",
+  "page_url": "https://ctrcustomtracks.com/high-risk/",
+  "author": "Custom Team Racing",
+  "download_url": "https://www.mediafire.com/file/lrlg1qnsy5os2it/TNT_PS1_TrackROM%25282%2529.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch 2.0 (Items)",
+    "href": "https://www.mediafire.com/file/g8ksctb4cx2ncby/High+risk.zip/file"
+   },
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/erfxmsew84oy54j/TNT_PS1_TrackROM.xdelta/file"
+   }
+  ],
+  "next": "Disney’s Hawaii",
+  "file_name": "TNT_PS1_TrackROM(2).xdelta",
+  "file_md5": "4291cf041c440df507f6e9dd4a6614e4",
+  "patch_md5": "4291cf041c440df507f6e9dd4a6614e4"
+ },
+ "disneys-hawaii": {
+  "name": "Disney’s Hawaii",
+  "page_url": "https://ctrcustomtracks.com/disneys-hawaii/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/cjl0yntl5wbqx7i/HawaiiNEWBotrace.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/q5o6uu9hty3nk6v/ctr-u_PS1_TrackROM.xdelta/file"
+   }
+  ],
+  "next": "Pier Pressure",
+  "pack": "Anniversary Pack",
+  "file_name": "HawaiiNEWBotrace.xdelta",
+  "file_md5": "03830bfb561e5259ea812eb012a35c0e",
+  "patch_md5": "03830bfb561e5259ea812eb012a35c0e"
+ },
+ "pier-pressure": {
+  "name": "Pier Pressure",
+  "page_url": "https://ctrcustomtracks.com/pier-pressure/",
+  "author": "KhaosApache",
+  "download_url": "https://www.mediafire.com/file/r3apalh2k729t6q/CTR-PierPressure-V2.1.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch [v2]",
+    "href": "https://www.mediafire.com/file/hy37uzdx001fmsw/CTR-PierPressure-V2.xdelta/file"
+   },
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/009tkjsrjkn5afs/CTR-PierPressure-V1.xdelta/file"
+   }
+  ],
+  "next": "Bowser’s Air Fleet",
+  "file_name": "CTR-PierPressure-V2.1.xdelta",
+  "file_md5": "177f7bbf5d8770087eded8635cbe409e",
+  "patch_md5": "177f7bbf5d8770087eded8635cbe409e"
+ },
+ "bowsers-air-fleet": {
+  "name": "Bowser’s Air Fleet",
+  "page_url": "https://ctrcustomtracks.com/bowsers-air-fleet/",
+  "author": "LittleBigHamm",
+  "download_url": "https://www.mediafire.com/file/f1r4za2t5vdtzvh/Bowsers_Air_Fleet.xdelta/file",
+  "alt_downloads": [],
+  "next": "Green Hill Raceway",
+  "pack": "Nitro WIld Cup",
+  "file_name": "Bowsers_Air_Fleet.xdelta",
+  "file_md5": "a202e94a62d8ed178aaeb2733429515d",
+  "patch_md5": "a202e94a62d8ed178aaeb2733429515d"
+ },
+ "green-hill-raceway": {
+  "name": "Green Hill Raceway",
+  "page_url": "https://ctrcustomtracks.com/green-hill-raceway/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/utsw1o1etv1c5y7/Green_Hill_Raceway_v1.2.xdelta/file",
+  "alt_downloads": [],
+  "next": "Oxide’s Hot Lap",
+  "pack": "SOMARI Cup",
+  "file_name": "Green_Hill_Raceway_v1.2.xdelta",
+  "file_md5": "ae300e2fac428dcf33c2ec01e6f51c49",
+  "patch_md5": "ae300e2fac428dcf33c2ec01e6f51c49"
+ },
+ "oxides-hot-lap": {
+  "name": "Oxide’s Hot Lap",
+  "page_url": "https://ctrcustomtracks.com/oxides-hot-lap/",
+  "author": "KhaosApache",
+  "download_url": "https://www.mediafire.com/file/2noyx5l760yl70l/CTR-OxidesHotLap-V1.xdelta/file",
+  "alt_downloads": [],
+  "next": "Meteor Gorge",
+  "file_name": "CTR-OxidesHotLap-V1.xdelta",
+  "file_md5": "621b5e00d0b68b32ebd804418bfbc079",
+  "patch_md5": "621b5e00d0b68b32ebd804418bfbc079"
+ },
+ "meteor-gorge": {
+  "name": "Meteor Gorge",
+  "page_url": "https://ctrcustomtracks.com/meteor-gorge/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/nxts15bkf15hid3/ctr-u_Meteor_Gorge.xdelta/file",
+  "alt_downloads": [],
+  "next": "Nitro WIld Cup",
+  "pack": "SOMARI Cup",
+  "file_name": "ctr-u_Meteor_Gorge.xdelta",
+  "file_md5": "54ba200ad548a63f363b11128c97a3cc",
+  "patch_md5": "54ba200ad548a63f363b11128c97a3cc"
+ },
+ "n-gage-electron-avenue": {
+  "name": "N-GAGE Electron Avenue",
+  "page_url": "https://ctrcustomtracks.com/n-gage-electron-avenue/",
+  "author": "Anfrost",
+  "download_url": "https://www.mediafire.com/file/6o3gf0z8lx4xrv7/Electron_Avenue_%2528N-Gage%2529_v1.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "Shipwreck Shore",
+  "file_name": "Electron Avenue (N-Gage) v1.0.xdelta",
+  "file_md5": "c05be46615e178ad6ec46b4cdb66a599",
+  "patch_md5": "c05be46615e178ad6ec46b4cdb66a599"
+ },
+ "shipwreck-shore": {
+  "name": "Shipwreck Shore",
+  "page_url": "https://ctrcustomtracks.com/shipwreck-shore/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/yh1d97za2s0m5ce/SPFshipwreckshoreV2.0.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch [v1.1]",
+    "href": "https://www.mediafire.com/file/yh1d97za2s0m5ce/SPFshipwreckshoreV1.1.xdelta/file"
+   },
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/yh1d97za2s0m5ce/SPFshipwreckshorev1.0.xdelta/file"
+   }
+  ],
+  "next": "N64 DK Jungle Parkway",
+  "file_name": "SPFshipwreckshoreV2.0.xdelta",
+  "file_md5": "f1e9ab79612d8974c323f91ad346f610",
+  "patch_md5": "f1e9ab79612d8974c323f91ad346f610"
+ },
+ "n64-dk-jungle-parkway": {
+  "name": "N64 DK Jungle Parkway",
+  "page_url": "https://ctrcustomtracks.com/n64-dk-jungle-parkway/",
+  "author": "Metal Star",
+  "download_url": "https://www.mediafire.com/file/0qb9accibht5945/N64DKJungleParkway.xdelta/file",
+  "alt_downloads": [],
+  "next": "DKR Crescent Island",
+  "pack": "This a recreation of the first track of Mario Kart 64’s Special Cup",
+  "file_name": "N64DKJungleParkway.xdelta",
+  "file_md5": "5193d0d36b75af4c4773c5a3887f792a",
+  "patch_md5": "5193d0d36b75af4c4773c5a3887f792a"
+ },
+ "dkr-crescent-island": {
+  "name": "DKR Crescent Island",
+  "page_url": "https://ctrcustomtracks.com/dkr-crescent-island/",
+  "author": "Metal Star",
+  "download_url": "https://www.mediafire.com/file/olaa5cjui7nw92s/DKRCrescentIslandV1.xdelta/file",
+  "alt_downloads": [],
+  "next": "Papu’s SG Temple",
+  "file_name": "DKRCrescentIslandV1.xdelta",
+  "file_md5": "7687b536f14bd141849a3a1f0408e7e2",
+  "patch_md5": "7687b536f14bd141849a3a1f0408e7e2"
+ },
+ "papus-sg-temple": {
+  "name": "Papu’s SG Temple",
+  "page_url": "https://ctrcustomtracks.com/papus-sg-temple/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/h14dyea7kcpmrkg/Papus_SG_TempleV2.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/3p3n74idxatohuf/ctr-u_PapusSGTemple.xdelta/file"
+   }
+  ],
+  "next": "Custom Adventure",
+  "pack": "Reimagined Pack",
+  "file_name": "Papus_SG_TempleV2.xdelta",
+  "file_md5": "7d3a1075ad7c690014696e2042b4b5ee",
+  "patch_md5": "7d3a1075ad7c690014696e2042b4b5ee"
+ },
+ "lego-rocket-racer-run": {
+  "name": "LEGO Rocket Racer Run",
+  "page_url": "https://ctrcustomtracks.com/lego-rocket-racer-run/",
+  "author": "Street_BB",
+  "download_url": "https://www.mediafire.com/file/fz9xwqza1cv54x9/Rocket_Racer_Run.xdelta/file",
+  "alt_downloads": [],
+  "next": "N-GAGE Jungle Boogie",
+  "file_name": "Rocket_Racer_Run.xdelta",
+  "file_md5": "934177878985526f32851eb7d3832205",
+  "patch_md5": "934177878985526f32851eb7d3832205"
+ },
+ "n-gage-jungle-boogie": {
+  "name": "N-GAGE Jungle Boogie",
+  "page_url": "https://ctrcustomtracks.com/n-gage-jungle-boogie/",
+  "author": "Anfrost",
+  "download_url": "https://github.com/jorozcove/jungle_boogie_n_gage/releases/download/v1.0/Jungle_Boogie_n_gage_v1.0.xdelta",
+  "alt_downloads": [],
+  "next": "Dreamy Heights",
+  "file_name": "Jungle_Boogie_n_gage_v1.0.xdelta",
+  "file_md5": "20d03f82182d2898b18595d94508cf64",
+  "patch_md5": "20d03f82182d2898b18595d94508cf64"
+ },
+ "dreamy-heights": {
+  "name": "Dreamy Heights",
+  "page_url": "https://ctrcustomtracks.com/dreamy-heights/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/pxqmxjbrn8c2okt/Dreamy_Heights_v1.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "Lost City",
+  "pack": "SOMARI Cup",
+  "file_name": "Dreamy_Heights_v1.0.xdelta",
+  "file_md5": "2312a278260465dadfa9680f8a9a2717",
+  "patch_md5": "2312a278260465dadfa9680f8a9a2717"
+ },
+ "lost-city": {
+  "name": "Lost City",
+  "page_url": "https://ctrcustomtracks.com/lost-city/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/iymrllpihcdpmxm/THE_LOST_BOTS.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/0dulda9cqnzer9v/LostCity.xdelta/file"
+   }
+  ],
+  "next": "DKR Spacedust Alley",
+  "file_name": "THE_LOST_BOTS.xdelta",
+  "file_md5": "3ba11028ce4f85732294aedf7072875f",
+  "patch_md5": "3ba11028ce4f85732294aedf7072875f"
+ },
+ "dkr-spacedust-alley": {
+  "name": "DKR Spacedust Alley",
+  "page_url": "https://ctrcustomtracks.com/dkr-spacedust-alley/",
+  "author": "Metal Star",
+  "download_url": "https://www.mediafire.com/file/fbgtxvq9dl2kv27/SpacedustAlleyV1.2.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/v5qepsa28nv5gh0/DKRSpacedustAlleyV1.xdelta/file"
+   }
+  ],
+  "next": "LEGO Captain Redbeard Cup",
+  "file_name": "SpacedustAlleyV1.2.xdelta",
+  "file_md5": "dde2a90752dd51005527143604cb27fe",
+  "patch_md5": "dde2a90752dd51005527143604cb27fe"
+ },
+ "hangtime-harbor": {
+  "name": "Hangtime Harbor",
+  "page_url": "https://ctrcustomtracks.com/hangtime-harbor/",
+  "author": "Justin Zimmermann",
+  "download_url": "https://www.mediafire.com/file/x2oxw1qauyz1zi9/hangtime_harbor_v2.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/erxwzdf9stij9l1/hangtime_harbor.xdelta/file"
+   }
+  ],
+  "next": "Village Of All Beginnings",
+  "file_name": "hangtime_harbor_v2.xdelta",
+  "file_md5": "7d6964f7b18e8dff860cf6545cd8b97c",
+  "patch_md5": "7d6964f7b18e8dff860cf6545cd8b97c"
+ },
+ "village-of-all-beginnings": {
+  "name": "Village Of All Beginnings",
+  "page_url": "https://ctrcustomtracks.com/village-of-all-beginnings/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/36c7wvlei3yh58s/Village-Of-all-beginnings_no_tomba.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/2bzqisbccrhb2t2/Village-Of-all-beginnings.xdelta/file"
+   }
+  ],
+  "next": "LEGO King Kahuka Cup",
+  "file_name": "Village-Of-all-beginnings_no_tomba.xdelta",
+  "file_md5": "24acadd684dcf3ee2cb6b3f1329c0f81",
+  "patch_md5": "24acadd684dcf3ee2cb6b3f1329c0f81"
+ },
+ "coco-park-2025": {
+  "name": "Coco Park 2025",
+  "page_url": "https://ctrcustomtracks.com/coco-park-2025/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/u84g1f31kwhmqt8/CocoPark2025.xdelta/file",
+  "alt_downloads": [],
+  "next": "Pinstripe’s Wild Past",
+  "pack": "Reimagined Pack",
+  "file_name": "CocoPark2025.xdelta",
+  "file_md5": "7de45cb90045968bc004f1b7ec587708",
+  "patch_md5": "7de45cb90045968bc004f1b7ec587708"
+ },
+ "pinstripes-wild-past": {
+  "name": "Pinstripe’s Wild Past",
+  "page_url": "https://ctrcustomtracks.com/pinstripes-wild-past/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/8lb9i6htger23ob/ctr_rebuild.xdelta/file",
+  "alt_downloads": [],
+  "next": "Neon City",
+  "file_name": "ctr_rebuild.xdelta",
+  "file_md5": "779f0d60aa8ec219ea4a8e72ed8dfc0e",
+  "patch_md5": "779f0d60aa8ec219ea4a8e72ed8dfc0e"
+ },
+ "neon-city": {
+  "name": "Neon City",
+  "page_url": "https://ctrcustomtracks.com/neon-city/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/yhiyzaukaid9i32/CUSTOM_bOT.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/8uyij95mcc8j2d1/Neon_City.xdelta/file"
+   }
+  ],
+  "next": "LEGO Basil Bat Lord Cup",
+  "file_name": "CUSTOM_bOT.xdelta",
+  "file_md5": "e319d83706d43ca6b4fc223899ef88aa",
+  "patch_md5": "e319d83706d43ca6b4fc223899ef88aa"
+ },
+ "toxic-dash": {
+  "name": "Toxic Dash",
+  "page_url": "https://ctrcustomtracks.com/toxic-dash/",
+  "author": "Street_BB",
+  "download_url": "https://www.mediafire.com/file/3gmgmpluwdyewco/CTR_ToxicDash.zip/file",
+  "alt_downloads": [],
+  "next": "Breeze Harbor",
+  "file_name": "CTR_ToxicDash.zip",
+  "file_md5": "0c6acd804f83dc6ec5f5a2301be8f580",
+  "patch_md5": "cf8143024976dc2855020a87de37a2fe"
+ },
+ "breeze-harbor": {
+  "name": "Breeze Harbor",
+  "page_url": "https://ctrcustomtracks.com/breeze-harbor/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/hhkul4f514u9dr2/Breeze_Harbor_v1.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "Holland",
+  "pack": "SOMARI Cup",
+  "file_name": "Breeze_Harbor_v1.0.xdelta",
+  "file_md5": "059d3c27a782e698dbc11ca984b1cf96",
+  "patch_md5": "059d3c27a782e698dbc11ca984b1cf96"
+ },
+ "holland": {
+  "name": "Holland",
+  "page_url": "https://ctrcustomtracks.com/holland/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/1tl46rlypvo2tfq/FK_Holland.xdelta/file",
+  "alt_downloads": [],
+  "next": "DS Delfino Square",
+  "file_name": "FK_Holland.xdelta",
+  "file_md5": "dea5075287ba4008a06ebef5d496123d",
+  "patch_md5": "dea5075287ba4008a06ebef5d496123d"
+ },
+ "ds-delfino-square": {
+  "name": "DS Delfino Square",
+  "page_url": "https://ctrcustomtracks.com/ds-delfino-square/",
+  "author": "EarlGrey",
+  "download_url": "https://drive.google.com/file/d/1EeES013TIhcK1gB804-WNe5FyQ2x8o6H/view?usp=drive_link",
+  "alt_downloads": [
+   {
+    "text": "Download Patch [v1.0]",
+    "href": "https://drive.google.com/file/d/1ijNMLnQaqe3G4EiYcuQr8Or6WSrJ__uv/view?usp=drive_link"
+   },
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/9xkoqh9x7ck4x2w/CTR_Delfino_Square.xdelta/file"
+   }
+  ],
+  "next": "Twilight Tour",
+  "file_name": "CTR_Delfino_Square_V1.1.xdelta",
+  "file_md5": "0fb68d30e2939c0822959779be7ac37a",
+  "patch_md5": "0fb68d30e2939c0822959779be7ac37a"
+ },
+ "twilight-tour": {
+  "name": "Twilight Tour",
+  "page_url": "https://ctrcustomtracks.com/twilight-tour/",
+  "author": "Randomii666",
+  "download_url": "https://drive.google.com/file/d/19-4rI0lXIswJ0KIxkHTwG6KX0mz59xSO/view?usp=sharing",
+  "alt_downloads": [],
+  "next": "Millennium Park",
+  "file_name": "TwilightTourV1.xdelta",
+  "file_md5": "6c5ed23e04e286abf7cc1403a0557bb1",
+  "patch_md5": "6c5ed23e04e286abf7cc1403a0557bb1"
+ },
+ "millennium-park": {
+  "name": "Millennium Park",
+  "page_url": "https://ctrcustomtracks.com/millennium-park/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/cyd4tz1tsht0hjb/Millennium_Park_v1.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "LEGO Racers Adventure",
+  "file_name": "Millennium_Park_v1.0.xdelta",
+  "file_md5": "97b9dbf2a1e9f571d0cdcec952b7fa2a",
+  "patch_md5": "97b9dbf2a1e9f571d0cdcec952b7fa2a"
+ },
+ "drive-thru-danger": {
+  "name": "Drive Thru Danger",
+  "page_url": "https://ctrcustomtracks.com/drive-thru-danger/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/it6ryd4zqs8fybu/DriveThruDanger_v1.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Donut Plains 1",
+  "file_name": "DriveThruDanger_v1.0.xdelta",
+  "file_md5": "c4ebd0e3d540c2ed1aefd9bd69446253",
+  "patch_md5": "c4ebd0e3d540c2ed1aefd9bd69446253"
+ },
+ "snes-donut-plains-1": {
+  "name": "SNES Donut Plains 1",
+  "page_url": "https://ctrcustomtracks.com/snes-donut-plains-1/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/b4y8olusnerykka/ctr_rebuild%25283%2529.xdelta/file",
+  "alt_downloads": [],
+  "next": "Pista Fanelli",
+  "pack": "SMK Special Cup",
+  "file_name": "ctr_rebuild(3).xdelta",
+  "file_md5": "29bdcf66436da106df6a175dcbffb5a0",
+  "patch_md5": "29bdcf66436da106df6a175dcbffb5a0"
+ },
+ "pista-fanelli": {
+  "name": "Pista Fanelli",
+  "page_url": "https://ctrcustomtracks.com/pista-fanelli/",
+  "author": "Alenex",
+  "download_url": "https://www.mediafire.com/file/fxvvyd9hsuiaxwi/ctr_Pista_Fanelli_TrackROM.xdelta/file",
+  "alt_downloads": [],
+  "next": "Backrooms A",
+  "file_name": "ctr_Pista_Fanelli_TrackROM.xdelta",
+  "file_md5": "8e546d4c68b6a67b1e4b11501df39ad8",
+  "patch_md5": "8e546d4c68b6a67b1e4b11501df39ad8"
+ },
+ "backrooms-a": {
+  "name": "Backrooms A",
+  "page_url": "https://ctrcustomtracks.com/backrooms-a/",
+  "author": "Alenex",
+  "download_url": "https://www.mediafire.com/file/m14rsfoqs4hsxu8/Backrooms_A.xdelta/file",
+  "alt_downloads": [],
+  "next": "Emerald Coast 1",
+  "file_name": "Backrooms_A.xdelta",
+  "file_md5": "57c791de4e529fbaa76153191b0fcdb5",
+  "patch_md5": "57c791de4e529fbaa76153191b0fcdb5"
+ },
+ "emerald-coast-1": {
+  "name": "Emerald Coast 1",
+  "page_url": "https://ctrcustomtracks.com/emerald-coast-1/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/32544meh8cn9kxe/ctr_rebuild%25284%2529.xdelta/file",
+  "alt_downloads": [],
+  "next": "Neighbourhood Loop",
+  "pack": "SOMARI Cup",
+  "file_name": "ctr_rebuild(4).xdelta",
+  "file_md5": "be2a893bc0f7cfce47a8f95d3e348e21",
+  "patch_md5": "be2a893bc0f7cfce47a8f95d3e348e21"
+ },
+ "neighbourhood-loop": {
+  "name": "Neighbourhood Loop",
+  "page_url": "https://ctrcustomtracks.com/neighbourhood-loop/",
+  "author": "Alenex",
+  "download_url": "https://www.mediafire.com/file/8xk2oig71qqw9w4/Neighbourhood_Loop.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Bowser’s Castle 1",
+  "file_name": "Neighbourhood_Loop.xdelta",
+  "file_md5": "cd23847a9b7b614fe9ec0ed48f6c4127",
+  "patch_md5": "cd23847a9b7b614fe9ec0ed48f6c4127"
+ },
+ "snes-bowsers-castle-1": {
+  "name": "SNES Bowser’s Castle 1",
+  "page_url": "https://ctrcustomtracks.com/snes-bowsers-castle-1/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/61c799dycfv8z6i/bowser.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/vl44jhxl0ygdnb2/bowserscastle1.xdelta/file"
+   }
+  ],
+  "next": "Karting Maruggio",
+  "pack": "SMK Special Cup",
+  "file_name": "bowser.xdelta",
+  "file_md5": "717be9e984d566400ca76e64d981dd77",
+  "patch_md5": "717be9e984d566400ca76e64d981dd77"
+ },
+ "karting-maruggio": {
+  "name": "Karting Maruggio",
+  "page_url": "https://ctrcustomtracks.com/karting-maruggio/",
+  "author": "Alenex",
+  "download_url": "https://www.mediafire.com/file/pakdmmomhodsx80/Karting_Maruggio.xdelta/file",
+  "alt_downloads": [],
+  "next": "Coral Causeway",
+  "file_name": "Karting_Maruggio.xdelta",
+  "file_md5": "14ee1547cf4ab46f57d2b90018b6ecfe",
+  "patch_md5": "14ee1547cf4ab46f57d2b90018b6ecfe"
+ },
+ "coral-causeway": {
+  "name": "Coral Causeway",
+  "page_url": "https://ctrcustomtracks.com/coral-causeway/",
+  "author": "Justin Zimmermann",
+  "download_url": "https://www.mediafire.com/file/crftanphprgp9sb/coral_causeway.xdelta/file",
+  "alt_downloads": [],
+  "next": "Race To The Finish",
+  "file_name": "coral_causeway.xdelta",
+  "file_md5": "8f13f7d1c702a276bf57c492bce3022f",
+  "patch_md5": "8f13f7d1c702a276bf57c492bce3022f"
+ },
+ "motor-sports-land": {
+  "name": "Motor Sports Land",
+  "page_url": "https://ctrcustomtracks.com/motor-sports-land/",
+  "author": "Randomii666",
+  "download_url": "https://drive.google.com/file/d/1ZAtRCCcOj0Td2-Ta4w1u-qkUSl348FWN/view?usp=sharing",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://drive.google.com/file/d/1BlcYmpiW_JGZvWyuXpq0MNW8QoZBDxOQ/view?usp=sharing"
+   }
+  ],
+  "next": "Redrock Ravine",
+  "file_name": "MotorSportsLandV2.1.xdelta",
+  "file_md5": "451965065f1b23f83ce63fffa64b0164",
+  "patch_md5": "451965065f1b23f83ce63fffa64b0164"
+ },
+ "redrock-ravine": {
+  "name": "Redrock Ravine",
+  "page_url": "https://ctrcustomtracks.com/redrock-ravine/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/n8b9fyrbaescipw/bots_redrock_ravine.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch [1.1]",
+    "href": "https://www.mediafire.com/file/a2xobzrxdu0momg/Redrock-Ravine_v1.1.xdelta/file"
+   },
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/0s2ci8akuvx74n7/redrock-ravine.xdelta/file"
+   }
+  ],
+  "next": "SNES Vanilla Lake 2",
+  "file_name": "bots_redrock_ravine.xdelta",
+  "file_md5": "75d9eba56349ba4f294f4f2c610e4d0b",
+  "patch_md5": "75d9eba56349ba4f294f4f2c610e4d0b"
+ },
+ "snes-vanilla-lake-2": {
+  "name": "SNES Vanilla Lake 2",
+  "page_url": "https://ctrcustomtracks.com/snes-vanilla-lake-2/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/94kbsh81iukz10k/ctr_rebuild%25282%2529.xdelta/file",
+  "alt_downloads": [],
+  "next": "Plumbing Problem",
+  "pack": "SMK Special Cup",
+  "file_name": "ctr_rebuild(2).xdelta",
+  "file_md5": "564b8220984c370a3ecd1b6756e5e995",
+  "patch_md5": "564b8220984c370a3ecd1b6756e5e995"
+ },
+ "plumbing-problem": {
+  "name": "Plumbing Problem",
+  "page_url": "https://ctrcustomtracks.com/plumbing-problem/",
+  "author": "Justin Zimmermann",
+  "download_url": "https://www.mediafire.com/file/tg87l5d2sniaf69/plumbing_problem.xdelta/file",
+  "alt_downloads": [],
+  "next": "Pancho’s Custom Collection 1",
+  "file_name": "plumbing_problem.xdelta",
+  "file_md5": "3161b2d4e9b98c805c97c0e74fa3a14f",
+  "patch_md5": "3161b2d4e9b98c805c97c0e74fa3a14f"
+ },
+ "country-speedway": {
+  "name": "Country Speedway",
+  "page_url": "https://ctrcustomtracks.com/country-speedway/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/r1kp7wbpdkxu08s/ctr-u_Custom_Collection1.xdelta/file",
+  "alt_downloads": [],
+  "next": "Mushroom Valley",
+  "pack": "Pancho’s Custom Collection 1",
+  "file_name": "ctr-u_Custom_Collection1.xdelta",
+  "file_md5": "e281f7bee6265f8fdb4db3a63f0da680",
+  "patch_md5": "e281f7bee6265f8fdb4db3a63f0da680"
+ },
+ "mushroom-valley": {
+  "name": "Mushroom Valley",
+  "page_url": "https://ctrcustomtracks.com/mushroom-valley/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/r1kp7wbpdkxu08s/ctr-u_Custom_Collection1.xdelta/file",
+  "alt_downloads": [],
+  "next": "Crystal Caves",
+  "pack": "Pancho’s Custom Collection 1",
+  "file_name": "ctr-u_Custom_Collection1.xdelta",
+  "file_md5": "e281f7bee6265f8fdb4db3a63f0da680",
+  "patch_md5": "e281f7bee6265f8fdb4db3a63f0da680"
+ },
+ "crystal-caves": {
+  "name": "Crystal Caves",
+  "page_url": "https://ctrcustomtracks.com/crystal-caves/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/r1kp7wbpdkxu08s/ctr-u_Custom_Collection1.xdelta/file",
+  "alt_downloads": [],
+  "next": "Tizi Challenge",
+  "pack": "Pancho’s Custom Collection 1",
+  "file_name": "ctr-u_Custom_Collection1.xdelta",
+  "file_md5": "e281f7bee6265f8fdb4db3a63f0da680",
+  "patch_md5": "e281f7bee6265f8fdb4db3a63f0da680"
+ },
+ "tizi-challenge": {
+  "name": "Tizi Challenge",
+  "page_url": "https://ctrcustomtracks.com/tizi-challenge/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/r1kp7wbpdkxu08s/ctr-u_Custom_Collection1.xdelta/file",
+  "alt_downloads": [],
+  "next": "Boneyard Run",
+  "pack": "Pancho’s Custom Collection 1",
+  "file_name": "ctr-u_Custom_Collection1.xdelta",
+  "file_md5": "e281f7bee6265f8fdb4db3a63f0da680",
+  "patch_md5": "e281f7bee6265f8fdb4db3a63f0da680"
+ },
+ "boneyard-run": {
+  "name": "Boneyard Run",
+  "page_url": "https://ctrcustomtracks.com/boneyard-run/",
+  "author": "Custom Team Racing",
+  "download_url": "https://drive.google.com/file/d/1vkHE0H1nlZO5g-Kp9szT-TiDCxJrYd6Y/view?usp=drive_link",
+  "alt_downloads": [],
+  "next": "DS Luigi’s Mansion",
+  "file_name": "BoneYard-RunV1.0.1.xdelta",
+  "file_md5": "c0ee0d3702353c05522c0ce2fc7104f3",
+  "patch_md5": "c0ee0d3702353c05522c0ce2fc7104f3"
+ },
+ "ds-luigis-mansion": {
+  "name": "DS Luigi’s Mansion",
+  "page_url": "https://ctrcustomtracks.com/ds-luigis-mansion/",
+  "author": "Anfrost",
+  "download_url": "https://www.mediafire.com/file/7krq4lzj1m77flx/Luigi's+Mansion+MKDS.xdelta/file",
+  "alt_downloads": [],
+  "next": "Super Snocross 2",
+  "file_name": "Luigis Mansion MKDS.xdelta",
+  "file_md5": "c75ba2620a4b110eb459e551afcbccea",
+  "patch_md5": "c75ba2620a4b110eb459e551afcbccea"
+ },
+ "super-snocross-2": {
+  "name": "Super Snocross 2",
+  "page_url": "https://ctrcustomtracks.com/super-snocross-2/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/eyiubukagtrdwrp/SuperSnocross2.xdelta/file",
+  "alt_downloads": [],
+  "next": "Snowfall Keep",
+  "file_name": "SuperSnocross2.xdelta",
+  "file_md5": "8c72a1bddfa277e51d2b55e44d036ee9",
+  "patch_md5": "8c72a1bddfa277e51d2b55e44d036ee9"
+ },
+ "snowfall-keep": {
+  "name": "Snowfall Keep",
+  "page_url": "https://ctrcustomtracks.com/snowfall-keep/",
+  "author": "LateOne",
+  "download_url": "https://www.mediafire.com/file/yxkpww1kni6sc7z/ctr_SnowfallKeep1.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "N-GAGE Deep Sea Driving",
+  "file_name": "ctr_SnowfallKeep1.0.xdelta",
+  "file_md5": "a893f798ba4470a1a00386d873f53f2a",
+  "patch_md5": "a893f798ba4470a1a00386d873f53f2a"
+ },
+ "n-gage-deep-sea-driving": {
+  "name": "N-GAGE Deep Sea Driving",
+  "page_url": "https://ctrcustomtracks.com/n-gage-deep-sea-driving/",
+  "author": "Anfrost",
+  "download_url": "https://www.mediafire.com/file/0mmdwtd2gun7jsg/DeepSeaDriving_n_gage.xdelta/file",
+  "alt_downloads": [],
+  "next": "Iron CTR Kaizo: The Perfect Run",
+  "file_name": "DeepSeaDriving_n_gage.xdelta",
+  "file_md5": "edf5877ecab165cdc39f34272df0581c",
+  "patch_md5": "edf5877ecab165cdc39f34272df0581c"
+ },
+ "sampa-run": {
+  "name": "Sampa Run",
+  "page_url": "https://ctrcustomtracks.com/sampa-run/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/g7sgyr1wqjv8dgn/Sampa_Run.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Rainbow Road",
+  "file_name": "Sampa_Run.xdelta",
+  "file_md5": "5c05f82a09b5c1ac5a78107413587a03",
+  "patch_md5": "5c05f82a09b5c1ac5a78107413587a03"
+ },
+ "snes-rainbow-road": {
+  "name": "SNES Rainbow Road",
+  "page_url": "https://ctrcustomtracks.com/snes-rainbow-road/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/cse8kkk3jzs7huu/SNES_RR.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Special Cup",
+  "pack": "SMK Special Cup",
+  "file_name": "SNES_RR.xdelta",
+  "file_md5": "d91b6e8ff15f13b327418897deea3424",
+  "patch_md5": "d91b6e8ff15f13b327418897deea3424"
+ },
+ "snes-choco-island-2": {
+  "name": "SNES Choco Island 2",
+  "page_url": "https://ctrcustomtracks.com/snes-choco-island-2/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/io3t7gobbpeu8x5/ChocoIsland2.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Mushroom Cup",
+  "pack": "SMK Mushroom Cup",
+  "file_name": "ChocoIsland2.xdelta",
+  "file_md5": "24acd75afcf17de1eabdc59081bcdab2",
+  "patch_md5": "24acd75afcf17de1eabdc59081bcdab2"
+ },
+ "snes-mario-circuit-1": {
+  "name": "SNES Mario Circuit 1",
+  "page_url": "https://ctrcustomtracks.com/snes-mario-circuit-1/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/hparmqpvj44751s/MushroomCup.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Koopa Beach 1",
+  "pack": "SMK Mushroom Cup",
+  "file_name": "MushroomCup.xdelta",
+  "file_md5": "e57d938b15c58a9c6e1195b6da12e3f5",
+  "patch_md5": "e57d938b15c58a9c6e1195b6da12e3f5"
+ },
+ "snes-koopa-beach-1": {
+  "name": "SNES Koopa Beach 1",
+  "page_url": "https://ctrcustomtracks.com/snes-koopa-beach-1/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/hparmqpvj44751s/MushroomCup.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Ghost Valley 2",
+  "pack": "SMK Mushroom Cup",
+  "file_name": "MushroomCup.xdelta",
+  "file_md5": "e57d938b15c58a9c6e1195b6da12e3f5",
+  "patch_md5": "e57d938b15c58a9c6e1195b6da12e3f5"
+ },
+ "snes-ghost-valley-2": {
+  "name": "SNES Ghost Valley 2",
+  "page_url": "https://ctrcustomtracks.com/snes-ghost-valley-2/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/hparmqpvj44751s/MushroomCup.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Mario Circuit 3",
+  "pack": "SMK Mushroom Cup",
+  "file_name": "MushroomCup.xdelta",
+  "file_md5": "e57d938b15c58a9c6e1195b6da12e3f5",
+  "patch_md5": "e57d938b15c58a9c6e1195b6da12e3f5"
+ },
+ "snes-mario-circuit-3": {
+  "name": "SNES Mario Circuit 3",
+  "page_url": "https://ctrcustomtracks.com/snes-mario-circuit-3/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/417axrjkd9amm8m/MC3.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Vanilla Lake 1",
+  "pack": "SMK Star Cup",
+  "file_name": "MC3.xdelta",
+  "file_md5": "bae60217c55c99f9cb3832c77367ac6a",
+  "patch_md5": "bae60217c55c99f9cb3832c77367ac6a"
+ },
+ "snes-vanilla-lake-1": {
+  "name": "SNES Vanilla Lake 1",
+  "page_url": "https://ctrcustomtracks.com/snes-vanilla-lake-1/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/e83s4zq41phmapo/VanillaLake.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Bowser’s Castle 3",
+  "pack": "SMK Star Cup",
+  "file_name": "VanillaLake.xdelta",
+  "file_md5": "b961ec11afc3767fce539a40a45791fa",
+  "patch_md5": "b961ec11afc3767fce539a40a45791fa"
+ },
+ "snes-bowsers-castle-3": {
+  "name": "SNES Bowser’s Castle 3",
+  "page_url": "https://ctrcustomtracks.com/snes-bowsers-castle-3/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/2h0ijmqfy3ohhpx/BC3.xdelta/file",
+  "alt_downloads": [],
+  "next": "Reimagined Pack",
+  "pack": "SMK Star Cup",
+  "file_name": "BC3.xdelta",
+  "file_md5": "2c1d13222f11fcfbfc8a886fbf2fd24c",
+  "patch_md5": "2c1d13222f11fcfbfc8a886fbf2fd24c"
+ },
+ "skull-cave": {
+  "name": "Skull Cave",
+  "page_url": "https://ctrcustomtracks.com/skull-cave/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/elmpyfc56z30h16/Reimagined_Updated.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Ghost Valley 1",
+  "pack": "Reimagined Pack",
+  "file_name": "Reimagined_Updated.xdelta",
+  "file_md5": "ceeaab5f947ecb6ea935cc4da86cf742",
+  "patch_md5": "ceeaab5f947ecb6ea935cc4da86cf742"
+ },
+ "snes-ghost-valley-1": {
+  "name": "SNES Ghost Valley 1",
+  "page_url": "https://ctrcustomtracks.com/snes-ghost-valley-1/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/j67jq1c7n5p34z6/STARCUP.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Star Cup",
+  "pack": "SMK Star Cup",
+  "file_name": "STARCUP.xdelta",
+  "file_md5": "f8be39d1d7dd1ecb198ef368fc64fedd",
+  "patch_md5": "f8be39d1d7dd1ecb198ef368fc64fedd"
+ },
+ "castle-route": {
+  "name": "Castle Route",
+  "page_url": "https://ctrcustomtracks.com/castle-route/",
+  "author": "MisterM",
+  "download_url": "https://www.mediafire.com/file/h3jrg72mh2kgoaq/Castle_Route.xdelta/file",
+  "alt_downloads": [],
+  "next": "Space Labs",
+  "pack": "«SNES Star Cup",
+  "file_name": "Castle_Route.xdelta",
+  "file_md5": "1d0e35d44f3679f22a9b80ef778bc602",
+  "patch_md5": "1d0e35d44f3679f22a9b80ef778bc602"
+ },
+ "space-labs": {
+  "name": "Space Labs",
+  "page_url": "https://ctrcustomtracks.com/space-labs/",
+  "author": "Custom Team Racing",
+  "download_url": "https://blounard.s-ul.eu/vNIxVyC1.xdelta",
+  "alt_downloads": [],
+  "next": "N. Hanced Collection 1",
+  "pack": "Next: N. Hanced Collection 1»",
+  "file_name": "Space_Labs.xdelta",
+  "file_md5": "a32601705be1424d581eb7b5b0f2a77b",
+  "patch_md5": "a32601705be1424d581eb7b5b0f2a77b"
+ },
+ "arcane-garden": {
+  "name": "Arcane Garden",
+  "page_url": "https://ctrcustomtracks.com/arcane-garden/",
+  "author": "CTR N.Hanced Team",
+  "download_url": "https://www.mediafire.com/file/l1uic1tutdq4ra7/NHancedCollection1.zip/file",
+  "alt_downloads": [],
+  "next": "Tribal Trials",
+  "pack": "N. Hanced Collection 1",
+  "file_name": "NHancedCollection1.zip",
+  "file_md5": "e87e974b34d72e4551525227a0ec5882",
+  "patch_md5": "633ad1352f59aafa6f765b7818d9d229"
+ },
+ "tribal-trials": {
+  "name": "Tribal Trials",
+  "page_url": "https://ctrcustomtracks.com/tribal-trials/",
+  "author": "CTR N.Hanced Team",
+  "download_url": "https://www.mediafire.com/file/l1uic1tutdq4ra7/NHancedCollection1.zip/file",
+  "alt_downloads": [],
+  "next": "Kong Dungeon",
+  "pack": "N. Hanced Collection 1",
+  "file_name": "NHancedCollection1.zip",
+  "file_md5": "e87e974b34d72e4551525227a0ec5882",
+  "patch_md5": "633ad1352f59aafa6f765b7818d9d229"
+ },
+ "kong-dungeon": {
+  "name": "Kong Dungeon",
+  "page_url": "https://ctrcustomtracks.com/kong-dungeon/",
+  "author": "CTR N.Hanced Team",
+  "download_url": "https://www.mediafire.com/file/l1uic1tutdq4ra7/NHancedCollection1.zip/file",
+  "alt_downloads": [],
+  "next": "Ursa Glacier",
+  "pack": "N. Hanced Collection 1",
+  "file_name": "NHancedCollection1.zip",
+  "file_md5": "e87e974b34d72e4551525227a0ec5882",
+  "patch_md5": "633ad1352f59aafa6f765b7818d9d229"
+ },
+ "ursa-glacier": {
+  "name": "Ursa Glacier",
+  "page_url": "https://ctrcustomtracks.com/ursa-glacier/",
+  "author": "CTR N.Hanced Team",
+  "download_url": "https://www.mediafire.com/file/l1uic1tutdq4ra7/NHancedCollection1.zip/file",
+  "alt_downloads": [],
+  "next": "Christmas Team Racing",
+  "pack": "N. Hanced Collection 1",
+  "file_name": "NHancedCollection1.zip",
+  "file_md5": "e87e974b34d72e4551525227a0ec5882",
+  "patch_md5": "633ad1352f59aafa6f765b7818d9d229"
+ },
+ "snowy-valley": {
+  "name": "Snowy Valley",
+  "page_url": "https://ctrcustomtracks.com/snowy-valley/",
+  "author": "PanchoPewPew",
+  "download_url": "https://www.mediafire.com/file/jmscepzz8415mks/SnowyValley.xdelta/file",
+  "alt_downloads": [],
+  "next": "N-GAGE Barin Ruins",
+  "pack": "SOMARI Cup",
+  "file_name": "SnowyValley.xdelta",
+  "file_md5": "df6c1b7404454f52cc8ed47344173281",
+  "patch_md5": "df6c1b7404454f52cc8ed47344173281"
+ },
+ "n-gage-barin-ruins": {
+  "name": "N-GAGE Barin Ruins",
+  "page_url": "https://ctrcustomtracks.com/n-gage-barin-ruins/",
+  "author": "Anfrost",
+  "download_url": "https://www.mediafire.com/file/ljpviqsgdezlj7a/barin_ruins_n_gage.xdelta/file",
+  "alt_downloads": [],
+  "next": "North Pole",
+  "file_name": "barin_ruins_n_gage.xdelta",
+  "file_md5": "0909185b0457eb5a509119a0e66b47e7",
+  "patch_md5": "0909185b0457eb5a509119a0e66b47e7"
+ },
+ "north-pole": {
+  "name": "North Pole",
+  "page_url": "https://ctrcustomtracks.com/north-pole/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/o0erhv7yhr2ej1g/North_Pole.xdelta/file",
+  "alt_downloads": [],
+  "next": "Holiday Hills",
+  "file_name": "North_Pole.xdelta",
+  "file_md5": "a2f6fd5c5357122cebc4bf092e4c5224",
+  "patch_md5": "a2f6fd5c5357122cebc4bf092e4c5224"
+ },
+ "holiday-hills": {
+  "name": "Holiday Hills",
+  "page_url": "https://ctrcustomtracks.com/holiday-hills/",
+  "author": "CTR N.Hanced Team",
+  "download_url": "https://www.mediafire.com/file/yshaqfetnx03jy2/NHanced_Holiday_Hills_v1.1.xdelta/file",
+  "alt_downloads": [],
+  "next": "Haven Stadium – Class 3",
+  "file_name": "NHanced_Holiday_Hills_v1.1.xdelta",
+  "file_md5": "82183c379a621a84ce6b11fa2eb91837",
+  "patch_md5": "82183c379a621a84ce6b11fa2eb91837"
+ },
+ "haven-stadium-class-3": {
+  "name": "Haven Stadium – Class 3",
+  "page_url": "https://ctrcustomtracks.com/haven-stadium-class-3/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/1n4fgdjdudk2gzp/Haven_Stadium-Class3.xdelta/file",
+  "alt_downloads": [],
+  "next": "Hellenic Hijinx",
+  "file_name": "Haven_Stadium-Class3.xdelta",
+  "file_md5": "fa43a75526a650dc4291a18b4afe1ad1",
+  "patch_md5": "fa43a75526a650dc4291a18b4afe1ad1"
+ },
+ "hellenic-hijinx": {
+  "name": "Hellenic Hijinx",
+  "page_url": "https://ctrcustomtracks.com/hellenic-hijinx/",
+  "author": "LateOne",
+  "download_url": "https://www.mediafire.com/file/hvhfcqsxfm5eoeu/CBNK2_HellenicHijinxV1.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "Inferno Island",
+  "file_name": "CBNK2_HellenicHijinxV1.0.xdelta",
+  "file_md5": "07e85c7e3c5d487a50b762cd14e61db6",
+  "patch_md5": "07e85c7e3c5d487a50b762cd14e61db6"
+ },
+ "inferno-island": {
+  "name": "Inferno Island",
+  "page_url": "https://ctrcustomtracks.com/inferno-island/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/lhd7vkqcpcafk9o/Inferno_Island_v1.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "Hasty Hedges",
+  "file_name": "Inferno_Island_v1.0.xdelta",
+  "file_md5": "4028e650fb99845e3ec6a24b0f739067",
+  "patch_md5": "4028e650fb99845e3ec6a24b0f739067"
+ },
+ "hasty-hedges": {
+  "name": "Hasty Hedges",
+  "page_url": "https://ctrcustomtracks.com/hasty-hedges/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/09mwxjnmc5xg4gz/HastyHedgesTT.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/es8cabtzngekda1/hastyhedgesAI.xdelta/file"
+   }
+  ],
+  "next": "Matsuri",
+  "pack": "Manzana Cup",
+  "file_name": "HastyHedgesTT.xdelta",
+  "file_md5": "3637ed10724d1a1bde9a35a7dbf43d96",
+  "patch_md5": "3637ed10724d1a1bde9a35a7dbf43d96"
+ },
+ "matsuri": {
+  "name": "Matsuri",
+  "page_url": "https://ctrcustomtracks.com/matsuri/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/gyevis3wzhhh78a/Matsuri_v1.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "Wumpa World",
+  "file_name": "Matsuri_v1.0.xdelta",
+  "file_md5": "34d6bf90c97b3f288d623a610572e0eb",
+  "patch_md5": "34d6bf90c97b3f288d623a610572e0eb"
+ },
+ "wumpa-world": {
+  "name": "Wumpa World",
+  "page_url": "https://ctrcustomtracks.com/wumpa-world/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/r6ahw5nyhk7wwwf/WumpaWorldTT.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch (BOTS)",
+    "href": "https://www.mediafire.com/file/6xnlej38xtms3lu/WumpaWorldAIRace.xdelta/file"
+   }
+  ],
+  "next": "Lights Out",
+  "pack": "Manzana Cup",
+  "file_name": "WumpaWorldTT.xdelta",
+  "file_md5": "de7413f18f8276fb11d24389dc5b4afc",
+  "patch_md5": "de7413f18f8276fb11d24389dc5b4afc"
+ },
+ "lights-out": {
+  "name": "Lights Out",
+  "page_url": "https://ctrcustomtracks.com/lights-out/",
+  "author": "Tramadolls",
+  "download_url": "https://www.mediafire.com/file/ydmweou476iid9y/lightsout.xdelta/file",
+  "alt_downloads": [],
+  "next": "Manzana Cup",
+  "file_name": "lightsout.xdelta",
+  "file_md5": "41b6c2160b324c3b9b65180be004584d",
+  "patch_md5": "41b6c2160b324c3b9b65180be004584d"
+ },
+ "cubic-circuit": {
+  "name": "Cubic Circuit",
+  "page_url": "https://ctrcustomtracks.com/cubic-circuit/",
+  "author": "MisterM",
+  "download_url": "https://www.mediafire.com/file/eiyvmjl0sx45shx/Cubic_Circuit.xdelta/file",
+  "alt_downloads": [],
+  "next": "The Lost Adventure Mode",
+  "pack": "«Manzana Cup",
+  "file_name": "Cubic Circuit.xdelta",
+  "file_md5": "4dc1f749d0365c8c256ac5277f7b2a12",
+  "patch_md5": "4dc1f749d0365c8c256ac5277f7b2a12"
+ },
+ "the-lost-adventure-mode": {
+  "name": "The Lost Adventure Mode",
+  "page_url": "https://ctrcustomtracks.com/the-lost-adventure-mode/",
+  "author": "robthefryman",
+  "download_url": "https://www.mediafire.com/file/qih2a5qyv3an91l/ctr-u_theLostAdventure.xdelta/file",
+  "alt_downloads": [],
+  "next": "St. Patrick’s Day Racing",
+  "file_name": "ctr-u_theLostAdventure.xdelta",
+  "file_md5": "d219ffa9c7e1ef705d3f29190eb0fc6c",
+  "patch_md5": "d219ffa9c7e1ef705d3f29190eb0fc6c"
+ },
+ "dkr-haunted-woods": {
+  "name": "DKR Haunted Woods",
+  "page_url": "https://ctrcustomtracks.com/dkr-haunted-woods/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/569yq168iblumss/HauntedWoods.rar/file",
+  "alt_downloads": [],
+  "next": "Arctic Alleyway",
+  "file_name": "HauntedWoods.rar",
+  "file_md5": "57beca8f581f473cd6bd24bf6f07a402",
+  "patch_md5": "fc39d6a60974fc95d38fa9568ddd1669"
+ },
+ "arctic-alleyway": {
+  "name": "Arctic Alleyway",
+  "page_url": "https://ctrcustomtracks.com/arctic-alleyway/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/tmcevof6pq3wcx2/ArcticAlleyway.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/y4nnqa6jh2ik5pv/ArcticTracks.rar/file"
+   }
+  ],
+  "next": "Lava Lane",
+  "file_name": "ArcticAlleyway.xdelta",
+  "file_md5": "8c9c9652f2c095ae04f3ff6295f6ad8d",
+  "patch_md5": "8c9c9652f2c095ae04f3ff6295f6ad8d"
+ },
+ "lava-lane": {
+  "name": "Lava Lane",
+  "page_url": "https://ctrcustomtracks.com/lava-lane/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/18ldqnu5bpcfq2u/LavaLane.rar/file",
+  "alt_downloads": [
+   {
+    "text": "Download Patch",
+    "href": "https://www.mediafire.com/file/rn8ezi1ukss7vz8/LavaLaneTT.xdelta/file"
+   }
+  ],
+  "next": "Chasqui Rally",
+  "file_name": "LavaLane.rar",
+  "file_md5": "f5f5ad5f91404b1f1396297667802315",
+  "patch_md5": "88f8863dc6fa4473c3c971491db29ffd"
+ },
+ "chasqui-rally": {
+  "name": "Chasqui Rally",
+  "page_url": "https://ctrcustomtracks.com/chasqui-rally/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/gn3pskn0xpdc2t7/ChasquiRally.rar/file",
+  "alt_downloads": [],
+  "next": "The Lab",
+  "file_name": "ChasquiRally.rar",
+  "file_md5": "4247db0b54790fd04290f2571499b572",
+  "patch_md5": "7c6fbc469a9eaa6f96031be2c27fa0d7"
+ },
+ "the-lab": {
+  "name": "The Lab",
+  "page_url": "https://ctrcustomtracks.com/the-lab/",
+  "author": "Tramadolls",
+  "download_url": "https://www.mediafire.com/file/3ant2ryn085xsyt/The_Lab.xdelta/file",
+  "alt_downloads": [],
+  "next": "SNES Special Cup 2",
+  "pack": "Next: SNES Special Cup 2»",
+  "file_name": "The Lab.xdelta",
+  "file_md5": "91980a43a51c3695ff4ee7b2f6e7ce04",
+  "patch_md5": "91980a43a51c3695ff4ee7b2f6e7ce04"
+ },
+ "skaters-retreat": {
+  "name": "Skater’s Retreat",
+  "page_url": "https://ctrcustomtracks.com/skaters-retreat/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/tho23ra7wgitr4b/Skaters_Retreat_v1.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "N-GAGE Out of Time",
+  "file_name": "Skaters_Retreat_v1.0.xdelta",
+  "file_md5": "af5a2d5fcbbcd2048d960ba3f403537a",
+  "patch_md5": "af5a2d5fcbbcd2048d960ba3f403537a"
+ },
+ "n-gage-out-of-time": {
+  "name": "N-GAGE Out of Time",
+  "page_url": "https://ctrcustomtracks.com/n-gage-out-of-time/",
+  "author": "Anfrost",
+  "download_url": "https://www.mediafire.com/file/xqjmticnrfqieyn/CNK_NGAGE_OUT_OF_ASSEMBLY_TIME_PACK.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download .lev Files",
+    "href": "https://www.mediafire.com/file/5tw48g41ig44jc3/n_gage_tracks_1.zip/file"
+   }
+  ],
+  "next": "N-GAGE Assembly Lane",
+  "file_name": "CNK_NGAGE_OUT_OF_ASSEMBLY_TIME_PACK.xdelta",
+  "file_md5": "c6e4c64a0d0758766bc0d9c2868f3e5b",
+  "patch_md5": "c6e4c64a0d0758766bc0d9c2868f3e5b"
+ },
+ "n-gage-assembly-lane": {
+  "name": "N-GAGE Assembly Lane",
+  "page_url": "https://ctrcustomtracks.com/n-gage-assembly-lane/",
+  "author": "Anfrost",
+  "download_url": "https://www.mediafire.com/file/xqjmticnrfqieyn/CNK_NGAGE_OUT_OF_ASSEMBLY_TIME_PACK.xdelta/file",
+  "alt_downloads": [
+   {
+    "text": "Download .lev Files",
+    "href": "https://www.mediafire.com/file/5tw48g41ig44jc3/n_gage_tracks_1.zip/file"
+   }
+  ],
+  "next": "Cortex Vortex",
+  "file_name": "CNK_NGAGE_OUT_OF_ASSEMBLY_TIME_PACK.xdelta",
+  "file_md5": "c6e4c64a0d0758766bc0d9c2868f3e5b",
+  "patch_md5": "c6e4c64a0d0758766bc0d9c2868f3e5b"
+ },
+ "cortex-vortex": {
+  "name": "Cortex Vortex",
+  "page_url": "https://ctrcustomtracks.com/cortex-vortex/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/m0cks7kv4k1kvfb/Cortex_Vortex.xdelta/file",
+  "alt_downloads": [],
+  "next": "Arabian Heights",
+  "file_name": "Cortex_Vortex.xdelta",
+  "file_md5": "69387c3835b6c79efb91ada5eb5ee943",
+  "patch_md5": "69387c3835b6c79efb91ada5eb5ee943"
+ },
+ "arabian-heights": {
+  "name": "Arabian Heights",
+  "page_url": "https://ctrcustomtracks.com/arabian-heights/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/c41gbbqb2rvfjhl/Arabian_Heights.xdelta/file",
+  "alt_downloads": [],
+  "next": "Glazed Dessert",
+  "file_name": "Arabian_Heights.xdelta",
+  "file_md5": "8ad5710d2d1c418597793d9801fa67cb",
+  "patch_md5": "8ad5710d2d1c418597793d9801fa67cb"
+ },
+ "glazed-dessert": {
+  "name": "Glazed Dessert",
+  "page_url": "https://ctrcustomtracks.com/glazed-dessert/",
+  "author": "daviddg",
+  "download_url": "https://drive.google.com/file/d/1utw-r8d6JExWT4_3k2bRqr8tlx64XLkN/view?usp=sharing",
+  "alt_downloads": [],
+  "next": "Dust Keepers",
+  "file_name": "GlazedDessert.xdelta",
+  "file_md5": "9fceff2ca606a5f17e6d73aed41283e9",
+  "patch_md5": "9fceff2ca606a5f17e6d73aed41283e9"
+ },
+ "dust-keepers": {
+  "name": "Dust Keepers",
+  "page_url": "https://ctrcustomtracks.com/dust-keepers/",
+  "author": "daviddg",
+  "download_url": "https://drive.google.com/file/d/16dV0Uo1MB8Wz6rq-Vzw8p0urYWZzsApU/view?usp=sharing",
+  "alt_downloads": [],
+  "next": "Hyrcanian Forest",
+  "file_name": "DustKeepers.xdelta",
+  "file_md5": "473758c08eeaca5592cfd99b05a8975d",
+  "patch_md5": "473758c08eeaca5592cfd99b05a8975d"
+ },
+ "hyrcanian-forest-2": {
+  "name": "Hyrcanian Forest",
+  "page_url": "https://ctrcustomtracks.com/hyrcanian-forest-2/",
+  "author": "Papu Persia",
+  "download_url": "https://www.mediafire.com/file/1dnksxdajhrw7vf/HyrcanianForest.rar/file",
+  "alt_downloads": [],
+  "next": "Big Forest",
+  "file_name": "HyrcanianForest.rar",
+  "file_md5": "d90fa59dafcf742f06cf5d35803984b5",
+  "patch_md5": "d8b0178db5863d08a9a78661e7ca1a34"
+ },
+ "big-forest": {
+  "name": "Big Forest",
+  "page_url": "https://ctrcustomtracks.com/big-forest/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/67qi1k286yuo1j1/bigforest.xdelta/file",
+  "alt_downloads": [],
+  "next": "Tomb Temple",
+  "file_name": "bigforest.xdelta",
+  "file_md5": "5244c067b23d3d6d25b1b56d99e0dfcf",
+  "patch_md5": "5244c067b23d3d6d25b1b56d99e0dfcf"
+ },
+ "tomb-temple": {
+  "name": "Tomb Temple",
+  "page_url": "https://ctrcustomtracks.com/tomb-temple/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/ev3zp18hnw7xgy5/TombTemple.rar/file",
+  "alt_downloads": [],
+  "next": "Lockbox Adventure",
+  "file_name": "TombTemple.rar",
+  "file_md5": "c69a102234bb705ef89c552bc05ca677",
+  "patch_md5": "cbd792a3121bc3827f337fd9b04fd7ac"
+ },
+ "papu-cave": {
+  "name": "Papu Cave",
+  "page_url": "https://ctrcustomtracks.com/papu-cave/",
+  "author": "Papu Persia",
+  "download_url": "https://www.mediafire.com/file/0zhgq3vt7381akd/PapuCave+V1.0.rar/file",
+  "alt_downloads": [],
+  "next": "TV World",
+  "file_name": "PapuCave V1.0.rar",
+  "file_md5": "d9a1c71b7453ddbf0edcf3a1bbf5839f",
+  "patch_md5": "a661f7f010ddff00b5db4d3516906575"
+ },
+ "tv-world": {
+  "name": "TV World",
+  "page_url": "https://ctrcustomtracks.com/tv-world/",
+  "author": "Boxicfunk",
+  "download_url": "https://www.mediafire.com/file/duc770plddw3gac/TV_World_v2.0.xdelta/file",
+  "alt_downloads": [],
+  "next": "Baby T Park",
+  "file_name": "TV_World_v2.0.xdelta",
+  "file_md5": "3c127a2dc5dea6c4f90db26714ef8ca4",
+  "patch_md5": "3c127a2dc5dea6c4f90db26714ef8ca4"
+ },
+ "baby-t-park": {
+  "name": "Baby T Park",
+  "page_url": "https://ctrcustomtracks.com/baby-t-park/",
+  "author": "Lockheart",
+  "download_url": "https://www.mediafire.com/file/p87269d0jv7166o/Baby_T_Park.xdelta/file",
+  "alt_downloads": [],
+  "next": "Sunset Vista",
+  "file_name": "Baby_T_Park.xdelta",
+  "file_md5": "c81e3c99030ea1fca0816f84e027594f",
+  "patch_md5": "c81e3c99030ea1fca0816f84e027594f"
+ },
+ "sunset-vista": {
+  "name": "Sunset Vista",
+  "page_url": "https://ctrcustomtracks.com/sunset-vista/",
+  "author": "Tramadolls",
+  "download_url": "https://www.mediafire.com/file/xa2npc09r8aszb4/SunsetVista_Community.zip/file",
+  "alt_downloads": [],
+  "next": "Diwali"
+ },
+ "diwali": {
+  "name": "Diwali",
+  "page_url": "https://ctrcustomtracks.com/diwali/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/eueawzmxx8p395r/Diwali.xdelta/file",
+  "alt_downloads": [],
+  "next": "Vanilla Lake 2",
+  "file_name": "Diwali.xdelta",
+  "file_md5": "9a634ab75b62670bec5c72519060186c",
+  "patch_md5": "9a634ab75b62670bec5c72519060186c"
+ },
+ "vanilla-lake-2": {
+  "name": "Vanilla Lake 2",
+  "page_url": "https://ctrcustomtracks.com/vanilla-lake-2/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/9s19k1o66q2sy48/VL2.xdelta/file",
+  "alt_downloads": [],
+  "next": "Glacier Lagoon",
+  "file_name": "VL2.xdelta",
+  "file_md5": "d0f1162b89d7946c031deae21da39079",
+  "patch_md5": "d0f1162b89d7946c031deae21da39079"
+ },
+ "glacier-lagoon": {
+  "name": "Glacier Lagoon",
+  "page_url": "https://ctrcustomtracks.com/glacier-lagoon/",
+  "author": "EarlGrey",
+  "download_url": "https://drive.google.com/file/d/1RmOqaUl4V-nJzGY8IhRcio1ipF_TuTCm/view",
+  "alt_downloads": [],
+  "next": "Dracula’s Castle",
+  "file_name": "CTR_Glacier_Lagoon_V1.0.xdelta",
+  "file_md5": "224a85dfe8c8967b47be223c97ccf6ac",
+  "patch_md5": "224a85dfe8c8967b47be223c97ccf6ac"
+ },
+ "draculas-castle": {
+  "name": "Dracula’s Castle",
+  "page_url": "https://ctrcustomtracks.com/draculas-castle/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/j2uc0f5q0qpxt3q/DraculasCastle.xdelta/file",
+  "alt_downloads": [],
+  "next": "Mario Circuit 1",
+  "file_name": "DraculasCastle.xdelta",
+  "file_md5": "d9e06ff39223d2d3287facd3d3a09bc0",
+  "patch_md5": "d9e06ff39223d2d3287facd3d3a09bc0"
+ },
+ "mario-circuit-1": {
+  "name": "Mario Circuit 1",
+  "page_url": "https://ctrcustomtracks.com/mario-circuit-1/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/nvpa0i61rr1ivw5/MarioCircuit1.xdelta/file",
+  "alt_downloads": [],
+  "next": "Neonstadion",
+  "file_name": "MarioCircuit1.xdelta",
+  "file_md5": "87bc8d7f4cd8ca927046d78d30637275",
+  "patch_md5": "87bc8d7f4cd8ca927046d78d30637275"
+ },
+ "neonstadion": {
+  "name": "Neonstadion",
+  "page_url": "https://ctrcustomtracks.com/neonstadion/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/jzvwkiuclu9vcgu/Neonstadion.xdelta/file",
+  "alt_downloads": [],
+  "next": "Acid Lake",
+  "pack": "SOMARI Cup",
+  "file_name": "Neonstadion.xdelta",
+  "file_md5": "502da6cdda2468f41a05a75757d47118",
+  "patch_md5": "502da6cdda2468f41a05a75757d47118"
+ },
+ "acid-lake": {
+  "name": "Acid Lake",
+  "page_url": "https://ctrcustomtracks.com/acid-lake/",
+  "author": "Lolo",
+  "download_url": "https://www.mediafire.com/file/nivj4fwxhf121e1/AcidLake.xdelta/file",
+  "alt_downloads": [],
+  "file_name": "AcidLake.xdelta",
+  "file_md5": "c14764f7529767610a2b2d65caec2fd1",
+  "patch_md5": "c14764f7529767610a2b2d65caec2fd1"
+ }
+}

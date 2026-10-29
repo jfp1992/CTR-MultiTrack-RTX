@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Nitro-Fueled remaster levels, step 1: unpack your own Crash Team Racing
-# Nitro-Fueled PS4 package (a fake/debug PKG: the zero passcode) into nf_raw/pkg,
+# Nitro-Fueled PS4 package (an unencrypted backup: the zero passcode) into nf_raw/pkg,
 # and its update package (optional; the Grand Prix tracks) into nf_raw/pkg_update.
 # Builds LibOrbisPkg's PkgTool (pinned, patched for .NET 8: OpenSSL 3, and
 # DeflateStream partial reads, which left every 64 KB block mostly zeros) into
@@ -82,7 +82,7 @@ unpack() {
     DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=1 dotnet "$TOOL/bin/PkgTool.Core.dll" pkg_extract \
         --passcode 00000000000000000000000000000000 "$pkg" "$out"
     n=$(ls "$out/uroot/archives" 2>/dev/null | wc -l)
-    (( n > 0 )) || { echo "ERROR: no level archives unpacked (a retail, encrypted package? it must be a fake/debug PKG)" >&2; exit 1; }
+    (( n > 0 )) || { echo "ERROR: no level archives unpacked (an encrypted package? it must be an unencrypted backup)" >&2; exit 1; }
     echo "archives: $n"
     echo "$id" > "$stamp"
 }

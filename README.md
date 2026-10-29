@@ -37,10 +37,10 @@ cd CTR-MultiTrack-RTX
    dump: one `.bin` + `.cue` (e.g. `CTR - Crash Team Racing (USA).bin`). Copy the
    `.bin` to `rom-usa/ctr-usa.bin` (rename it; the `.cue` isn't needed).
 2. **Nitro-Fueled (optional, for the "NF" tracks).** Put both PS4 packages in
-   `rom-ps4/` as they are (fake/debug PKGs; tested: CUSA13795 USA):
-   * the game: `...CUSA13795-USA-Game-(6.72+)-PS4.pkg`
-   * update v1.21: `...CUSA13795-USA-Update-v1.21-(6.72+)-PS4.pkg` (adds the
-     Grand Prix tracks; optional)
+   `rom-ps4/`, as backed up from your own console and copy of the game
+   (unencrypted packages; tested: CUSA13795, USA):
+   * the game package
+   * the v1.21 update package (adds the Grand Prix tracks; optional)
 
    Needs the .NET 8 SDK and about 50 GB free.
 3. **Custom tracks (optional).** Copy the downloads (`.xdelta`, `.vcdiff`, or

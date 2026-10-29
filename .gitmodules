@@ -1,4 +1,4 @@
 [submodule "native"]
 	path = native
 	url = https://github.com/jfp1992/ctr-native.git
-	branch = multitrack-rtx
+	branch = main
